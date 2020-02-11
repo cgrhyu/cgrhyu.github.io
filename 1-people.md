@@ -46,9 +46,9 @@ nav-menu: true
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/unknown-female.png" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Jungmin Lee</b>
+		<b>Jeongmin Lee</b>
 		<font size="3">이정민</font><br/>
-		xxx@xxx.com
+	    j0064423@hanyang.ac.kr	
 	</p>
 	</div>
 </div>
