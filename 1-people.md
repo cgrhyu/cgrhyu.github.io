@@ -30,9 +30,9 @@ nav-menu: true
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/unknown-male.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Guntae Park</b>
+		<b>Geuntae Park</b>
 		<font size="3">박근태</font><br/>
-		xxx@xxx.com
+		qkrrmsxo01@hanyang.ac.kr
 	</p>
 	</div>
 	<div class="4u 12u$(small)">
