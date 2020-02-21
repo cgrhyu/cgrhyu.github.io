@@ -38,7 +38,7 @@ nav-menu: true
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/chaejun-sohn/chaejun.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b><a href="people/chaejun-sohn/chaejun-sohn.html">Chaejun Sohn</a></b>
+		<b><a href="people/chaejun-sohn.html">Chaejun Sohn</a></b>
 		<font size="3">손채준</font><br/>
 		thscowns@gmail.com
 	</p>
