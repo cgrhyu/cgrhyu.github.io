@@ -7,7 +7,7 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<span class="image left"><img src="../assets/people/unknown-male.jpg" alt="" /></span>
+		<span class="image left"><img src="../assets/people/chaejun-sohn/chaejun.jpg" alt="" /></span>
 
 <h2>Chaejun Sohn</h2>
 
