@@ -30,7 +30,7 @@ nav-menu: true
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/geuntae-park/geuntae-park.png" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b><a href ="people/geuntae-park.html>Geuntae Park</a></b>
+		<b><a href ="people/geuntae-park.html">Geuntae Park</a></b>
 		<font size="3">박근태</font><br/>
 		qkrrmsxo01@hanyang.ac.kr
 	</p>
