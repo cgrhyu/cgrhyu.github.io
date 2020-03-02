@@ -7,7 +7,7 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<span class="image left"><img src="../assets/people/geuntae-park/geuntae-park.jpg" alt="" /></span>
+		<span class="image left"><img src="../assets/people/geuntae-park/geuntae-park.png" alt="" /></span>
 
 <h2>Geuntae Park</h2>
 
