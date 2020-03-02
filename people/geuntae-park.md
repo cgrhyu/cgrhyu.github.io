@@ -26,4 +26,5 @@ e-mail: qkrrmsxo01@hanyang.ac.kr
 
 ## Research Interests
 **Data-driven Character Control**
+
 **Deep Neural Network**
