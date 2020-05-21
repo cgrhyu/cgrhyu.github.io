@@ -1,5 +1,16 @@
 var publications_eng = [
 	{
+		'title': 'Fast and Flexible Multilegged Locomotion Using Learned Centroidal Dynamics',
+		'representative_img': 'assets/publications/2020-fast-flexible/papers_342s2-file2.jpg',
+		'conference_journal': 'SIGGRAPH',
+		'year': 2020,
+		'authors': 'Taesoo Kwon, Yoonsang Lee, Michiel van de Panne',
+		'conference_journal_full': 'ACM Transactions on Graphics (SIGGRAPH 2020)',
+		'video_iframe': '<iframe width="1280" height="749" src="https://www.youtube.com/embed/fGwMrRoC5bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		'project_page': 'http://calab.hanyang.ac.kr/papers/flexLoco.html',
+		'type': 'paper',
+	},
+	{
 		'title': 'Control of an Iguana Character Using Soft-Body Simulation',
 		'representative_img': 'assets/publications/2018-iguana-ctrl/2018-iguana-ctrl.jpg',
 		'project_page': 'publications/2018-iguana-ctrl.html',
