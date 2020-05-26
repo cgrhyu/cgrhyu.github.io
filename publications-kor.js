@@ -4,8 +4,8 @@ var publications_kor = [
 		'representative_img': 'assets/publications/domestic/2020-kcgs-motion-com.png',
 		'year': 2020,
 		'authors': '박근태, 손채준, 이윤상',
-		'conference_journal_full': '한국컴퓨터그래픽스학회 논문지, 제#권 제#호, 2020.06.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr:32375/Dikarlizy/publications/blob/master/2020-kcgs-motion-com.pdf">[article]</a>',
+		'conference_journal_full': '한국컴퓨터그래픽스학회 논문지, 2020.06.',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/2020-motion-com/2020-kcgs-motion-com.pdf">[article]</a>',
 		'type': 'paper',
 	},
 	{
