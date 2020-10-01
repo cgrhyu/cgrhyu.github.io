@@ -7,17 +7,13 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<span class="image left"><img src="../assets/people/jeongmin-lee/jeongmin-lee.jpg" alt="" /></span>
+		<span class="image left"><img src="../assets/people/geuntae-park/geuntae-park.png" alt="" /></span>
 
-<h2>Jeongmin Lee</h2>
+<h2>Geuntae Park</h2>
 
 B.S in Computer Science, Hanyang University, Seoul, Korea, Feb.2020<br>
-<<<<<<< HEAD
 Room 111, R&D Building<br>
-=======
-Room 111, R&D Building<br>
->>>>>>> upstream/master
-e-mail: j0064423@hanyang.ac.kr
+e-mail: qkrrmsxo01@hanyang.ac.kr
 <p/>
 
 <a target="_blank" rel="noopener noreferrer" href="http://cs.hanyang.ac.kr/">Department Of Computer Science</a>
@@ -29,4 +25,6 @@ e-mail: j0064423@hanyang.ac.kr
 </section>
 
 ## Research Interests
-Physically-Based Character Control
+**Data-driven Character Control**
+
+**Deep Neural Network**

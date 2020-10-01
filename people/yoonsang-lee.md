@@ -1,6 +1,6 @@
 ---
 layout: post
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
@@ -19,6 +19,9 @@ Assistant Professor
 <a target="_blank" rel="noopener noreferrer" href="http://cs.hanyang.ac.kr/">Department Of Computer Science</a>
 <br/>
 <a target="_blank" rel="noopener noreferrer" href="https://www.hanyang.ac.kr/">Hanyang University</a>
+
+<p/>
+yoonsanglee@hanyang.ac.kr 
 
 	</div>
 </section>

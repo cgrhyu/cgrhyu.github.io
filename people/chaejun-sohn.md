@@ -7,17 +7,13 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<span class="image left"><img src="../assets/people/jeongmin-lee/jeongmin-lee.jpg" alt="" /></span>
+		<span class="image left"><img src="../assets/people/chaejun-sohn/chaejun.jpg" alt="" /></span>
 
-<h2>Jeongmin Lee</h2>
+<h2>Chaejun Sohn</h2>
 
 B.S in Computer Science, Hanyang University, Seoul, Korea, Feb.2020<br>
-<<<<<<< HEAD
 Room 111, R&D Building<br>
-=======
-Room 111, R&D Building<br>
->>>>>>> upstream/master
-e-mail: j0064423@hanyang.ac.kr
+e-mail: thscowns@hanyang.ac.kr
 <p/>
 
 <a target="_blank" rel="noopener noreferrer" href="http://cs.hanyang.ac.kr/">Department Of Computer Science</a>
@@ -30,3 +26,4 @@ e-mail: j0064423@hanyang.ac.kr
 
 ## Research Interests
 Physically-Based Character Control
+<br/>Deep Reinforcement Learning

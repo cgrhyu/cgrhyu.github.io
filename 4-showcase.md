@@ -16,6 +16,7 @@ Type:
   <option value='all'>ALL</option>
   <option value='paper'>Paper</option>
   <option value='senior'>Senior Project</option>
+  <option value='pbl'>PBL Project</option>
 </select>
 </div>
 
@@ -31,7 +32,7 @@ Conference / Journal:
 
 <p/>
 
-<div id="contents" class="row">
+<div id="contents">
 
 <script>
 // https://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format
@@ -56,11 +57,12 @@ function dynamicallyLoadScript(url) {
 }
 
 dynamicallyLoadScript('publications-eng.js');
-dynamicallyLoadScript('seniorprojs.js');
+dynamicallyLoadScript('senior-projs.js');
+dynamicallyLoadScript('pbl-projs.js');
 
 function onSelect() {
 	var publications = publications_eng;
-	var projs = seniorprojs;
+	var projs = senior_projs.concat(pbl_projs);
 	var items = publications.concat(projs);
 
 	var type_select = document.getElementById("type_select");
@@ -70,6 +72,8 @@ function onSelect() {
 	var conf = conf_select.options[conf_select.selectedIndex].value;
 
 	var contents_code = '';
+	var showCount = 0;
+
 	for(var i = 0; i < items.length; i++) 
 	{
 		var item = items[i];
@@ -78,6 +82,8 @@ function onSelect() {
 		if(type=='paper' && item.type=='paper')
 			show = true;
 		else if(type=='senior' && item.type=='senior')
+			show = true;
+		else if(type=='pbl' && item.type=='pbl')
 			show = true;
 		else if(type=='all')
 			show = true;
@@ -96,12 +102,20 @@ function onSelect() {
 				show = false;
 		}
 
+		if(!('video_iframe' in item))
+			show = false;
+
 		if(show)
 		{
+			if(showCount % 2 == 0)
+				contents_code += '<div class="row">';
+
 			if(item.type=='paper')
 				typestr = 'Paper';
 			else if(item.type=='senior')
 				typestr = 'Senior Project';
+			else if(item.type=='pbl')
+				typestr = 'PBL Project';
 			contents_code += '<div class="6u 12u$(small)">';
 			if('id' in item)
 				project_page = item.project_page + '#' + item.id;
@@ -112,6 +126,11 @@ function onSelect() {
 			contents_code += '{0}'.format(item.video_iframe);;
 			contents_code += '</div></div>';
 			contents_code += '<br/></div>';
+
+			if(showCount % 2 == 1 || i == items.length-1)
+				contents_code += '</div>';
+
+			showCount += 1;
 		}
 	}
 
