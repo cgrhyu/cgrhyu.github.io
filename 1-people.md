@@ -29,18 +29,18 @@ nav-menu: true
 <div class="row">
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/unknown-male.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Guntae Park</b>
+		<span class="image left"><img src="assets/people/geuntae-park/geuntae-park.png" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href ="people/geuntae-park.html">Geuntae Park</a></b>
 		<font size="3">박근태</font><br/>
-		xxx@xxx.com
+		qkrrmsxo01@hanyang.ac.kr
 	</p>
 	</div>
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/unknown-male.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Chajun Son</b>
+		<span class="image left"><img src="assets/people/chaejun-sohn/chaejun.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/chaejun-sohn.html">Chaejun Sohn</a></b>
 		<font size="3">손채준</font><br/>
-		xxx@xxx.com
+		thscowns@gmail.com
 	</p>
 	</div>
 	<div class="4u 12u$(small)">
