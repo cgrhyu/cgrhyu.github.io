@@ -10,6 +10,11 @@ nav-menu: true
 
 <h3>2020 Spring</h3>
 <ul>
+<li><a href="courses/2020-fall-csd.html">ITE1015 Creative Software Design</a></li>
+</ul>
+
+<h3>2020 Spring</h3>
+<ul>
 <li><a href="courses/2020-spring-isd.html">ITE1014 Introduction to Software Design</a></li>
 <li><a href="courses/2020-spring-cg.html">CSE4020 Computer Graphics</a></li>
 <li><a href="courses/2020-spring-pbl.html">PBL4001 COMPUTER SCIENCE Capstone PBL(Physically-Based Character Simulation)</a></li>
