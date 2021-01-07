@@ -6,12 +6,13 @@ show_tile: false
 ---
 
 * Instructor: [Yoonsang Lee](../people/yoonsang-lee.html)
-* Teaching Assistant: Jeongmin Lee
+* Teaching Assistant: [Jeongmin Lee](../people/jeongmin-lee.html)
 * Undergraduate Mentor: Sangwha Lee, Si Zheng
 * Time / Location: 
-  * Tue 10:00-12:00 / 609 IT.BT Building - Lecture
-  * Wed 15:00-17:00 / 609 IT.BT Building - Lab 1
-  * Thu 15:00-17:00 / 609 IT.BT Building - Lab 2
+  * Live online lectures and labs due to the COVID-19 pandemic.
+  * Tue 10:00-12:00 / Online (originally 609 IT.BT Building) - Lecture
+  * Wed 15:00-17:00 / Online (originally 609 IT.BT Building) - Lab 1
+  * Thu 15:00-17:00 / Online (originally 609 IT.BT Building) - Lab 2
 
 ## Course Outline
 
@@ -22,9 +23,9 @@ In this course the students will learn the fundamentals of C++ language and prac
 
 |Week| Date            | Topics   | Reference Materials |
 |--- | ---             | ---      | --- |
-| 1  | Sep 01 / Sep 02, 03 | [1 - Course Intro] / <br/> [1 - Lab1 - Environment Setting, Git, Vim], [1 - Lab2 - G++, Make, GDB], Assignment 1  | [1 - Lab1 - Vim Advanced] |
-| 2  | Sep 08 / Sep 09, 10 | [2 - Review of C Pointer and Structure] / Assignment 2  | |
-| 3  | Sep 15 / Sep 16, 17 | [3 - Difference Between C and C++] / Assignment 3  | |
+| 1  | Sep 01 / Sep 02, 03 | [1 - Course Intro] / <br/> [1 - Lab1 - Environment Setting], [1 - Lab2 - G++, Make, GDB] / Assignment 1  | [1 - Lab1 - Vim Advanced] |
+| 2  | Sep 08 / Sep 09, 10 | [2 - Review of C Pointer, Const and Structure] / Assignment 2  | |
+| 3  | Sep 15 / Sep 16, 17 | [3 - Differences Between C and C++] / Assignment 3  | |
 | 4  | Sep 22 / Sep 23, 24 | [4 - Dynamic Memory Allocation, References] / Assignment 4  | |
 | 5  | Sep 29 / Sep 30, Oct 01 | [5 - Compilation and Linkage, CMD Args] / Assignment 5  | |
 | 6  | Oct 06 / Oct 09, 10 | [6 - Class] / Assignment 6  |  |
@@ -39,19 +40,19 @@ In this course the students will learn the fundamentals of C++ language and prac
 | 14 | Dec 08 | Final Exam| |
 
 [1 - Course Intro]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-CourseIntro.pdf
-[1 - Lab1 - Environment Setting, Git, Vim]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-Lab1-EnvSetting,Git,Vim.pdf
-[1 - Lab1 - Vim Advanced]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-Lab1-VimAdvanced.pdf
+[1 - Lab1 - Environment Setting]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-Lab1-EnvSetting.pdf
+[1 - Lab1 - Vim Advanced]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-Lab1-reference-VimAdvanced.pdf
 [1 - Lab2 - G++, Make, GDB]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-Lab2-g++,make,gdb.pdf
-[2 - Review of C Pointer and Structure]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/2-Review of C Pointer and Structure.pdf
-[3 - Difference Between C and C++]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/3-Review of C Pointer and Const, Difference Between C and C++.pdf
+[2 - Review of C Pointer, Const and Structure]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/2-Review of C Pointer, Const and Structure.pdf
+[3 - Differences Between C and C++]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/3-Differences Between C and C++.pdf
 [4 - Dynamic Memory Allocation, References]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/4-Dynamic Memory Allocation, References.pdf
 [5 - Compilation and Linkage, CMD Args]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/5-Compilation and Linkage, CMD Args.pdf
 [6 - Class]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/6-Class.pdf
-[7 - Standard Template Library]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/7-Standard Template Library.pdf
+[7 - Standard Template Library(STL)]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/7-Standard Template Library.pdf
 [8 - Inheritance, Const & Class]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/8-Inheritance, Const & Class.pdf
 [9 - Polymorphism 1]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/9-Polymorphism 1.pdf
 [10 - Polymorphism 2]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/10-Polymorphism 2.pdf
 [11 - Copy Constructor, Operator Overloading]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/11-Copy Constructor, Operator Overloading.pdf
 [12 - Template]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/12-Template.pdf
-[13 - ExceptionHandling]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/13-ExceptionHandling.pdf
+[13 - Exception Handling]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/13-ExceptionHandling.pdf
 
