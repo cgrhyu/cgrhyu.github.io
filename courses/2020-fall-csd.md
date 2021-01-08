@@ -30,14 +30,14 @@ In this course the students will learn the fundamentals of C++ language and prac
 | 5  | Sep 29 / Sep 30, Oct 01 | [5 - Compilation and Linkage, CMD Args] / Assignment 5  | |
 | 6  | Oct 06 / Oct 09, 10 | [6 - Class] / Assignment 6  |  |
 | 7  | Oct 13 / Oct 16, 17 | [7 - Standard Template Library(STL)] / Assignment 7  | |
-| 8  | Oct 20 / Oct 23, 24 | Midterm Exam  | |
-| 8  | Oct 27 / Oct 30, 31 | [8 - Inheritance, Const & Class] / Assignment 8 | |
-| 9  | Nov 03 / Nov 04, 05 | [9 - Polymorphism 1] / Assignment 9 | |
-| 10 | Nov 10 / Nov 11, 12 | [10 - Polymorphism 2] / Assignment 10  | |
-| 11 | Nov 17 / Nov 18, 19 | [11 - Copy Constructor, Operator Overloading] / Assignment 11  | |
-| 12 | Nov 24 / Nov 25, 26 | [12 - Template] / Assignment 12  | |
-| 13 | Dec 01 / Dec 02, 03 | [13 - Exception Handling] / Assignment 13  | |
-| 14 | Dec 08 | Final Exam| |
+| 8  | Oct 20 / Oct 23, 24 | Midterm Exam Week | |
+| 9  | Oct 27 / Oct 30, 31 | [8 - Inheritance, Const & Class] / Assignment 8 | |
+| 10 | Nov 03 / Nov 04, 05 | [9 - Polymorphism 1] / Assignment 9 | |
+| 11 | Nov 10 / Nov 11, 12 | [10 - Polymorphism 2] / Assignment 10  | |
+| 12 | Nov 17 / Nov 18, 19 | [11 - Copy Constructor, Operator Overloading] / Assignment 11  | |
+| 13 | Nov 24 / Nov 25, 26 | [12 - Template] / Assignment 12  | |
+| 14 | Dec 01 / Dec 02, 03 | [13 - Exception Handling] / Assignment 13  | |
+| 15 | Dec 08 | Final Exam| |
 
 [1 - Course Intro]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-CourseIntro.pdf
 [1 - Lab1 - Environment Setting]: https://gitcgr.hanyang.ac.kr/courses/2020-fall-csd/lecture-slides/1-Lab1-EnvSetting.pdf
