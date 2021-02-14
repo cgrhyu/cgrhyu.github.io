@@ -26,3 +26,6 @@ e-mail: j0064423@hanyang.ac.kr
 
 ## Research Interests
 Physically-Based Character Control
+
+## Publications
+<a target="_black" rel="noopener noreferrer" href="https://doi.org/10.15701/kcgs.2020.26.4.1">심층 강화 학습을이용한 Luxo 캐릭터의 제어</a>
