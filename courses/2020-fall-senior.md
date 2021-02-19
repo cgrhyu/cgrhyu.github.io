@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seinor Projects - 2019 Fall
+title: Seinor Projects - 2020 Fall
 nav-menu: false
 show_tile: false
 ---
@@ -42,7 +42,7 @@ window.onload = function () {
 		var proj = projs[i];
 		var show = false;
 
-		if(proj.year==2019 && proj.season=='fall')
+		if(proj.year==2020 && proj.season=='fall')
 			show = true;
 
 		if(show)
@@ -74,14 +74,3 @@ window.onload = function () {
 </script>
 
 </div>
-
-<!--#### Team3 - Seinor Projects 2019 Fall-->
-<!--Topic: Unreal Engine 4 환경에서 Phase Functioned Neural Network 기술을 이용한 게임 제작  -->
-<!--Members: 이상옥 구교민 유지원-->
-
-<!--<div class="6u 12u$(small)">-->
-<!--<div id="iframe_container"> <div id="iframe">-->
-<!--<iframe width="791" height="445" src="https://www.youtube.com/embed/3tzndxUZ1RI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-<!--</div></div>  -->
-<!--</div>-->
-

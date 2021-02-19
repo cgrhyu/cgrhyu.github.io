@@ -1,11 +1,24 @@
 var publications_kor = [
+    {
+        'title':'심층 강화 학습을 이용한 Luxo 캐릭터의 제어',
+        'representative_img':'assets/publications/domestic/2020-journalkcgs-luxo.png',
+        'year':2020,
+        'authors': '이정민, 이윤상',
+        'conference_journal_full':'컴퓨터그래픽스학회논문지, 제26권 제4호, 1-8, 2020.09.',
+        'additional':'<a href="https://gitcgr.hanyang.ac.kr/publications/2020-luxo/luxo-character-control-using-deep-reinforcement-learning.pdf">[article]</a>',
+        'type':'paper',
+    },
 	{
 		'title': '무게중심을 활용한 모션 생성 기술',
-		'representative_img': 'assets/publications/domestic/2020-kcgs-motion-com.png',
+		'representative_img': 'assets/publications/domestic/2020-kcgsjournal-motion-com.png',
 		'year': 2020,
 		'authors': '박근태, 손채준, 이윤상',
 		'conference_journal_full': '한국컴퓨터그래픽스학회 논문지, 제 26권 제 2호, 11-19, 2020.06.',
+<<<<<<< HEAD
 		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/2020-motion-com/2020-kcgs-motion-com.pdf">[article]</a>',
+=======
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2020-kcgsjournal-motion-com.pdf">[article]</a>',
+>>>>>>> aecb74527041ee1e9622a195b37da55ad8ed6815
 		'type': 'paper',
 	},
 	{
@@ -29,11 +42,11 @@ var publications_kor = [
 	},
 	{
 		'title': '데이터 기반 보행 제어를 위한 다리 간 충돌 회피 기법',
-		'representative_img': 'assets/publications/domestic/2017-journalkcgs-inter-leg.png',
+		'representative_img': 'assets/publications/domestic/2017-kcgsjournal-inter-leg.png',
 		'year': 2017,
 		'authors': '이윤상',
 		'conference_journal_full': '컴퓨터그래픽스학회논문지, 제23권 제2호, 23-27, 2017.06.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2017-journalkcgs-inter-leg.pdf">[article]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2017-kcgsjournal-inter-leg.pdf">[article]</a>',
 		'type': 'paper',
 	},
 	{
@@ -45,4 +58,5 @@ var publications_kor = [
 		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2016-kcgs-make-it-walk.pdf">[slides]</a>',
 		'type': 'talk',
 	},
+
 ]
