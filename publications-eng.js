@@ -15,9 +15,9 @@ var publications_eng = [
 		'representative_img': 'assets/publications/domestic/2021-ICEIC-learning-tsid.png',
 		'year': 2021,
 		'authors': 'GeunTae Park, Yoonsang Lee',
-		'conference_journal_full': '2021 International Conference on Electronics, Information, and Communication (ICEIC)',
-		'additional': '<a herf="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-ICEIC-learning-tsid">[article]</a>',
-		'type': 'extende_abstract',
+		'conference_journal_full': '2021 International Conference on Electronics, Information, and Communication (ICEIC), February 2021',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-ICEIC-learning-tsid">[article]</a>',
+		'type': 'extended_abstract',
 	},
 	{
 		'title': 'Fast and Flexible Multilegged Locomotion Using Learned Centroidal Dynamics',
