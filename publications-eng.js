@@ -16,7 +16,7 @@ var publications_eng = [
 		'year': 2021,
 		'authors': 'GeunTae Park, Yoonsang Lee',
 		'conference_journal_full': '2021 International Conference on Electronics, Information, and Communication (ICEIC), February 2021',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-iceic-learning-tsid">[article]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-iceic-learning-tsid.pdf">[article]</a>',
 		'type': 'extended_abstract',
 	},
 	{
