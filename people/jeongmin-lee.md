@@ -44,8 +44,8 @@ Physically-Based Character Control<br>
 <br>
 </div>
 <div class="paper">
-<span class="image left">
-<img src="../assets/publications/domestic/2021-kcgsjournal-2dtraj.png" style="max-width: 220px; height: auto; " alt="" />
+<span class="image left" style="display:inline-block; width:220px;"> 
+<img src="../assets/publications/domestic/2021-kcgsjournal-2dtraj.png" style="max-width: 220px; height: 150px; " alt="" />
 </span>
 <span class="info right">
 <a target="_black" rel="noopener noreferrer" href="http://kcgs2021.cg-korea.org/file/O32.pdf">2D 이동 경로 지정을 통한 모션 매칭 기반 캐릭터 모션 생성</a><br>
