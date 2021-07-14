@@ -5,8 +5,8 @@ var publications_kor = [
         'year':2021,
         'authors': '손채준, 이윤상',
         'conference_journal_full':'한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 52-56, 2021.07.',
-        'additional': '<a href="http://kcgs2021.cg-korea.org/file/O30.pdf">[article]</a>',
-        'type': 'paper',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgsjournal-state-representation.pdf">[article]</a>',
+        'type': 'extended_abstract',
     },
     {
         'title':'2D 이동 경로 지정을 통한 모션 매칭 기반 캐릭터 모션 생성',
