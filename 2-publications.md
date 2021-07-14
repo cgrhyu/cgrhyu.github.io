@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Publications
+title: Publications & Presentations
 image: assets/home/publications.jpg
 nav-menu: true
 ---
@@ -18,16 +18,17 @@ Conference / Journal:
 </select>
 </div>
 
-<div class="2u 12u$(small)">
+<div class="3u 12u$(small)">
 Type:
 <select id="type_select" onChange="onSelect()">
   <option value='all'>ALL</option>
-  <option value='paper'>Paper</option>
+  <option value='paper'>Full Paper</option>
+  <option value='extended_abstract'>Extended Abstract</option>
   <option value='talk'>Talk</option>
 </select>
 </div>
 
-<div class="5u 12u$(small)" style="height:1px">
+<div class="4u 12u$(small)" style="height:1px">
 </div>
 
 <div class="2u 12u$(small)">
@@ -103,6 +104,8 @@ function onSelect() {
 		{
 			if(type=='paper' && (pub.type=='paper'))
 				show = true;
+			else if(type=='extended_abstract' && (pub.type=='extended_abstract'))
+				show = true;
 			else if(type=='talk' && (pub.type=='talk'))
 				show = true;
 			else if(type=='all')
@@ -114,7 +117,9 @@ function onSelect() {
 		if(show)
 		{
 			contents_code += '<div class="12u 12u$(small)">';
-			contents_code += '<span class="image left"><img src={0} style="max-width: 220px; height: auto; " alt="" /></span>'.format(pub.representative_img);
+
+			// right (horizontal) & top (vertical) alignment
+			contents_code += '<span class="image left"><img src={0} style="width: 220px; height: 124px; object-fit:contain; object-position: 100% 0%" alt="" /></span>'.format(pub.representative_img);
 
 			if('project_page' in pub)
 				contents_code += '<b><a href={0} rel="noopener noreferrer" target="_blank">{1}</a></b><br/>'.format(pub.project_page, pub.title);
