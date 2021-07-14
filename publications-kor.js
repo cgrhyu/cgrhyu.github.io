@@ -5,7 +5,7 @@ var publications_kor = [
         'year':2021,
         'authors': '손채준, 이윤상',
         'conference_journal_full':'한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 52-56, 2021.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgsjournal-state-representation.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-state-representation.pdf">[article]</a>',
         'type': 'extended_abstract',
     },
     {
