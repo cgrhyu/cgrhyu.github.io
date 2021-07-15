@@ -10,7 +10,7 @@ nav-menu: true
 
 <h3>2021 Spring</h3>
 <ul>
-<!--<li><a href="courses/2021-spring-pbl.html">PBL4001 COMPUTER SCIENCE Capstone PBL(Physically-Based Character Simulation)</a></li>-->
+<li><a href="courses/2021-spring-pbl.html">PBL4001 COMPUTER SCIENCE Capstone PBL(Physically-Based Character Simulation)</a></li>
 </ul>
 
 <h3>2020 Fall</h3>
