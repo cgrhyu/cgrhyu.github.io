@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COMPUTER SCIENCE Capstone PBL(Physically-Based Character Simulation) - 2021 Spring
+title: COMPUTER SCIENCE Capstone PBL(Character Motion Synthesis and Character Control) - 2021 Spring
 nav-menu: false
 show_tile: false
 ---
