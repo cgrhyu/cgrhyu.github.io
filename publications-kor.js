@@ -4,7 +4,7 @@ var publications_kor = [
         'year': 2022,
         'authors': '박근태, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 34-35, 2022.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-DataDrivenDRL.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-drlMotionMatching.pdf">[article]</a>',
         'type': 'extended_abstract',
     },
 var publications_kor = [
