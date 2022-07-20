@@ -1,6 +1,6 @@
 var publications_kor = [
     {   'title': '데이터 기반 심층강화학습을 통한 모션 생성',
-        'representative_img':'assets/publications/domestic/2022-kcgs-DataDrivenDRL.png',
+        'representative_img':'assets/publications/domestic/2022-kcgs-drlMotionMatching.png',
         'year': 2022,
         'authors': '박근태, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 34-35, 2022.07.',
