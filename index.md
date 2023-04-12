@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Computer Graphics and Robotics Lab.'
+landing-title: 'Computer Graphics & Robotics Lab.'
 description: null
 image: null
 author: null
