@@ -1,6 +1,57 @@
 var senior_projs = [
 	{
-		'title': 'Phase Functioned Neural Network (PFNN) implementation',
+		'title': 'Implementing "A Practical Model for Realistic Butterfly Flight Simulation"',
+		'authors': '정은호, 차다윤',
+		'project_page': 'courses/2022-fall-senior.html',
+		'id': 'teamC',
+		'year': 2023,
+		'season': 'spring',
+		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/o1NLbgK7VwE" title="Realistic Butterfly Simulation on Blender" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
+		'title': 'Interactive character control using motion matching',
+		'authors': '이지현, 김유진',
+		'project_page': 'courses/2023-spring-senior.html',
+		'id': 'teamA',
+		'year': 2023,
+		'season': 'spring',
+		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/AuDIXVIe0os" title="Motion Matching을 이용한 interactive character control demo 구현 (졸업프로젝트)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
+		'title': 'Implementing "Neural Animation Layering for Synthesizing Martial Arts Movements" (NAL)',
+		'authors': '이지원',
+		'project_page': 'courses/2022-fall-senior.html',
+		'id': 'team1',
+		'year': 2022,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/1Pl1mb--sDY" title="Neural Animation Layering (NAL) implementation (2022 Senior Project)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
+		'title': 'Motion synthesis using motion matching and DRL',
+		'authors': '장보경, 김현수',
+		'project_page': 'courses/2022-fall-senior.html',
+		'id': 'team2',
+		'year': 2022,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/B_m8i0uA2GY" title="한양대학교 컴퓨터 소프트웨어학부 졸업프로젝트 영상 (team2: 김현수, 장보경)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
+		'title': 'Building a Korean speech dataset for "MakeItTalk: Speaker-Aware Talking-Head Animation"',
+		'authors': 'Wan, Amin, Afif',
+		'project_page': 'courses/2022-fall-senior.html',
+		'id': 'team4',
+		'year': 2022,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/sR13Rc8cFYU" title="[GradProj Team 4] Korean MakeItTalk Result Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+
+	{
+		'title': 'Implementing "Phase-functioned Neural Networks for Character Control" (PFNN)',
 		'authors': '오시환, 허산',
 		'project_page': 'courses/2021-fall-senior.html',
 		'id': 'team1',
@@ -10,7 +61,7 @@ var senior_projs = [
 		'type': 'senior',
 	},
 	{
-		'title': 'DeepMimic implementation',
+		'title': 'Implementing "DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills"',
 		'authors': '이재원, 하승룡',
 		'project_page': 'courses/2021-fall-senior.html',
 		'id': 'team5',
@@ -20,7 +71,7 @@ var senior_projs = [
 		'type': 'senior',
 	},
 	{
-		'title': 'Phase Functioned Neural Network (PFNN) implementation',
+		'title': 'Implementing "Phase-functioned Neural Networks for Character Control" (PFNN)',
 		'authors': '정영주, 임창현',
 		'project_page': 'courses/2021-fall-senior.html',
 		'id': 'team6',
@@ -39,6 +90,7 @@ var senior_projs = [
 		'video_iframe': '<iframe width="1046" height="588" src="https://www.youtube.com/embed/XRvudJxH3-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'senior',
 	},
+
 	{
 		'title': 'Softbody control learned using deep reinforcement learning',
 		'authors': '윤혜원, 허진, 백승수',
@@ -49,6 +101,7 @@ var senior_projs = [
 		'video_iframe': '<iframe width="1046" height="588" src="https://www.youtube.com/embed/NvzOV2tZHtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'senior',
 	},
+
 	{
 		'title': 'Physically simulated character controlled by SIMBICON algorithm in Dartpy and Blender environment',
 		'authors': '사정',
@@ -89,6 +142,7 @@ var senior_projs = [
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/fQ-Zf69X4Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'senior',
 	},
+
 	//{
 		//'title': 'Phase-Functioned Neural Network in Unreal Engine 4',
 		//'authors': '이상옥, 구교민, 유지원',
@@ -100,7 +154,7 @@ var senior_projs = [
 		//'type': 'senior',
 	//},
 	{
-		'title': 'Autonomous Indoor Mapping using ROS Mobile Robot',
+		'title': 'Autonomous indoor mapping using ROS mobile robot',
 		'authors': '오동원',
 		'project_page': 'courses/2019-fall-senior.html',
 		'id': 'team7',
@@ -110,7 +164,7 @@ var senior_projs = [
 		'type': 'senior',
 	},
 	{
-		'title': 'Folding House',
+		'title': 'Folding house',
 		'authors': '조태희',
 		'project_page': 'courses/2019-fall-senior.html',
 		'id': 'team8',
@@ -120,7 +174,7 @@ var senior_projs = [
 		'type': 'senior',
 	},
 	{
-		'title': 'Goldberg Machine Animation in Blender',
+		'title': 'Goldberg machine animation in Blender',
 		'authors': '임교리, 문정현',
 		'project_page': 'courses/2019-fall-senior.html',
 		'id': 'team9',
