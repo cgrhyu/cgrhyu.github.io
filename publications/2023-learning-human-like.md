@@ -21,7 +21,7 @@ Additionally, we compared and analyzed differences in learning outcomes across v
 [ACM digital library link](https://dl.acm.org/doi/abs/10.1145/3588028.3603646)  
 
 ## Overview
-![overview](assets/publications/2023-learning-human-like/overview-human-like.png)
+![overview](../assets/publications/2023-learning-human-like/overview-human-like.png)
 
 ## Video 
 <div id="iframe_container"> <div id="iframe">
