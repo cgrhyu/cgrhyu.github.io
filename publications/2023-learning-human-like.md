@@ -14,10 +14,14 @@ Our main ideas involve providing a dense reward using metabolic energy consumpti
 and adjusting the initial posture of the human model to facilitate the exploration of locomotion.
 Additionally, we compared and analyzed differences in learning outcomes across various settings other than the proposed method.
 
+## Download
+[Download paper pdf](https://dl.acm.org/doi/pdf/10.1145/3588028.3603646)  
+[Download supplement material pdf](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=supp.pdf)  
+[Download conference poster pdf](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=poster-v2.pdf)  
+[ACM digital library link](https://dl.acm.org/doi/abs/10.1145/3588028.3603646)  
 
-## Paper
-[Download pdf](https://gitcgr.hanyang.ac.kr/publications/2023-learning-human-like/learning-human-like-preprint.pdf)  
-
+## Overview
+![overview](assets/publications/2023-learning-human-like/overview-human-like.png)
 
 ## Video 
 <div id="iframe_container"> <div id="iframe">
