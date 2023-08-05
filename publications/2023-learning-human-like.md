@@ -22,6 +22,8 @@ Additionally, we compared and analyzed differences in learning outcomes across v
 
 ## Overview
 ![overview](assets/publications/2023-learning-human-like/overview-human-like.png)
+![overview](assets/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.png)
+
 
 ## Video 
 <div id="iframe_container"> <div id="iframe">
