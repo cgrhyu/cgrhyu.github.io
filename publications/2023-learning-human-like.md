@@ -21,23 +21,19 @@ Additionally, we compared and analyzed differences in learning outcomes across v
 
 ## System Overview
 ![](../assets/publications/2023-learning-human-like/overview-human-like.png)
-Input of policy is observation composed of rigid body states and muscle states of our fullbody model (284 dim)
-Output of policy is muscle activation used for controlling our musculoskeletal humanoid (120 dim)
-
+Input of the policy is an observation, which is composed of rigid body states and muscle states of our fullbody model (284 dim).
+Output of the policy is an action, which is muscle activation used for controlling our musculoskeletal humanoid via muscle-actuated simulation (120 dim).
 
 ## Reinforcement Learning
-&& reward equation &&
-Policy (fully connected network) is updated to maximize reward, which is sum of biological reward term and task reward term.
-
+![](../assets/publications/2023-learning-human-like/rew-human-like.png)
+Policy (fully connected network) is updated to maximize reward, which is sum of <span style="color:#F7DDBE">biological reward term</span> and <span style="color:#008000">task reward term</span>.
 Biological term reflects the common characteristics of locomotion that keep balance of upper body and minimize energy consumption.
-
 Task reward term avoid falling over for as long as possible and encourage model to achieve desired velocity (1.5m/sec)
-
 
 ## Our Strategy
 We first train our policy with a dense energy reward and then fine-tuning our policy with a sparse reward.
 
-In early stage, the policy’s activation often result in movements with high energy consumption and instability. 
+**In early stage**, the policy’s activation often result in movements with high energy consumption and instability. 
 The dense reward (MET) aids in rapidly stabilizing the movements, facilitating the discovery of a policy that can maintain balance over multiple steps. Afterward, switching to the sparse reward (CoT) encourages covering longer distances even with the same energy consumption, effectively increasing the travel distance.
 
 We introduce randomized starting position of lifting either left or right leg at the beginning of each episode, to increase the probability of exploring actions that naturally swinging the lifted leg and stably contact with the ground.
