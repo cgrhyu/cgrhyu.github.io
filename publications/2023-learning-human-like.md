@@ -32,13 +32,13 @@ Task reward term avoid falling over for as long as possible and encourage model 
 
 ## Our Strategy
 We first train our policy with a dense energy reward and then fine-tuning our policy with a sparse energy reward.<br>
-In early stage, the policy’s activation often result in movements with high energy consumption and instability.<br>
+In early stage, the policy’s activation often result in movements with high energy consumption and instability.
 The dense reward (MET) aids in rapidly stabilizing the movements, facilitating the discovery of a policy that can maintain balance over multiple steps. Afterward, switching to the sparse reward (CoT) encourages covering longer distances even with the same energy consumption, effectively increasing the travel distance.<br>
-We introduce randomized starting position of lifting either left or right leg** at the beginning of each episode, to increase the probability of exploring actions that naturally swinging the lifted leg and stably contact with the ground.
+We introduce randomized starting position of lifting either left or right leg at the beginning of each episode, to increase the probability of exploring actions that naturally swinging the lifted leg and stably contact with the ground.
 
 ## Muscle Simulation
 ![](../assets/publications/2023-learning-human-like/muscle-human-like.png)
-We use hill-type muscle actuated model(left of the figure) which is composed of fiber and tendon, where muscle force is calculated by muscle length, muscle velocity and muscle activations via equation. <br>And then, calculated muscle force is applied between path points(right of the figure) attached to each rigid link.
+We use hill-type muscle actuated model(left of the figure) which is composed of fiber and tendon, where muscle force is calculated by muscle length, muscle velocity and muscle activations via equation. And then, calculated muscle force is applied between path points(right of the figure) attached to each rigid link.
 
 ## Paper 
 [Download paper pdf](https://dl.acm.org/doi/pdf/10.1145/3588028.3603646)  
