@@ -26,24 +26,19 @@ Output of the policy is an action, which is muscle activation used for controlli
 
 ## Reinforcement Learning
 ![](../assets/publications/2023-learning-human-like/rew-human-like.png)
-Policy (fully connected network) is updated to maximize reward, which is sum of <span style="color:#F7DDBE">biological reward term</span> and <span style="color:#008000">task reward term</span>.
+Policy (fully connected network) is updated to maximize reward, which is sum of <span style="color:#FFFFA500">biological reward term</span> and <span style="color:#FF32CD32">task reward term</span>.
 Biological term reflects the common characteristics of locomotion that keep balance of upper body and minimize energy consumption.
 Task reward term avoid falling over for as long as possible and encourage model to achieve desired velocity (1.5m/sec)
 
 ## Our Strategy
-We first train our policy with a dense energy reward and then fine-tuning our policy with a sparse reward.
-
-**In early stage**, the policy’s activation often result in movements with high energy consumption and instability. 
-The dense reward (MET) aids in rapidly stabilizing the movements, facilitating the discovery of a policy that can maintain balance over multiple steps. Afterward, switching to the sparse reward (CoT) encourages covering longer distances even with the same energy consumption, effectively increasing the travel distance.
-
-We introduce randomized starting position of lifting either left or right leg at the beginning of each episode, to increase the probability of exploring actions that naturally swinging the lifted leg and stably contact with the ground.
-
+We first train our policy with **a dense energy reward** and then fine-tuning our policy with **a sparse energy reward.**
+**In early stage**, the policy’s activation often result in movements with **high energy consumption and instability.** 
+**The dense reward (MET)** aids in **rapidly stabilizing** the movements, facilitating the discovery of a policy that can **maintain balance over multiple steps.** Afterward, **switching to the sparse reward (CoT)** encourages covering longer distances even with the same energy consumption, **effectively increasing the travel distance.**
+We introduce randomized starting position of **lifting either left or right leg** at the beginning of each episode, to increase the probability of **exploring actions that naturally swinging the lifted leg** and stably contact with the ground.
 
 ## Muscle Simulation
 ![](../assets/publications/2023-learning-human-like/muscle-human-like.png)
-We use hill-type muscle actuated model composed of fiber and tendon, where muscle force is calculated by muscle length, muscle velocity and muscle activations
-
-Muscle force is applied between path points attached to each rigid link.
+We use hill-type muscle actuated model(left of the figure) which is composed of fiber and tendon, where muscle force is calculated by muscle length, muscle velocity and muscle activations. And then, calculated muscle force is applied between path points(right of the figure) attached to each rigid link.
 
 ## Paper 
 [Download paper pdf](https://dl.acm.org/doi/pdf/10.1145/3588028.3603646)  
