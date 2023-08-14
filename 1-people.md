@@ -85,22 +85,44 @@ nav-menu: true
 
 	<div class="4u 12u$(small)">
 	<p>
+		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Eunho Jung</b>
+		<font size="3">정은호</font><br/>
+	</p>
+	</div>
+	
+	<div class="4u 12u$(small)">
+	<p>
 		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Hauk Nam</b>
 		<font size="3">남하욱</font><br/>
 	</p>
 	</div>
-
+	
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/inyeong-park/inyeong-park.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Inyeong Park</b>
-		<font size="3">박인영</font><br/>
+		<span class="image left"><img src="assets/people/minwoo-park/minwoo-park.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Minwoo Park</b>
+		<font size="3">박민우</font><br/>
 	</p>
 	</div>
-
+	
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/haewoo-lee/haewoo-lee.PNG" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Haewoo Lee</b>
+		<font size="3">이해우</font><br/>
+	</p>
+	</div>
+	
+        <div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/yumin-lee/yumin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Yumin Lee</b>
+		<font size="3">이유민</font><br/>
+	</p>
+	</div>
 </div>
-
 <p/>
 
 <h2>Alumni</h2>
