@@ -42,7 +42,7 @@ Physically-Based Character Control
 한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 61-62, 2022.07.<br>
 </span>
 </div>
-<br>
+
 <div class="paper">
 <span class="image left">
 <img src="../assets/publications/2023-learning-human-like/rep-human-like.jpg" style="max-width: 220px; height: auto; " alt="" />
