@@ -32,24 +32,12 @@ Physically-Based Character Control
 <br>
 <br>
 ## Publications
-<div class="paper">
-<span class="image left">
-<img src="../assets/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.png" style="max-width: 220px; height: auto; " alt="" />
-</span>
-<span class="info right">
-<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.pdf">참조 모션을 사용하지 않는 근골격계 캐릭터의 보행 모션 학습</a><br>
+**[참조 모션을 사용하지 않는 근골격계 캐릭터의 보행 모션 학습](https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.pdf)**<br>
 김민관, 이윤상<br>
 한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 61-62, 2022.07.<br>
-</span>
-</div>
-
-<div class="paper">
-<span class="image left">
-<img src="../assets/publications/2023-learning-human-like/rep-human-like.jpg" style="max-width: 220px; height: auto; " alt="" />
-</span>
-<span class="info right">
-<a target="_black" rel="noopener noreferrer" href="https://dl.acm.org/doi/pdf/10.1145/3588028.3603646">Learning Human-like Locomotion Based on Biological Actuation and Rewards</a><br>
+<br>
+**[Learning Human-like Locomotion Based on Biological Actuation and Rewards](https://dl.acm.org/doi/pdf/10.1145/3588028.3603646)**<br>
 김민관, 이윤상<br>
 SIGGRAPH '23: ACM SIGGRAPH 2023 Posters, Article No.: 5, July 2023<br>
-</span>
-</div>
+<br>
+
