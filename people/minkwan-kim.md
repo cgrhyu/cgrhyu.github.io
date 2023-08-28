@@ -12,7 +12,8 @@ show_tile: false
 <h2>Minkwan Kim</h2>
 
 B.S in Computer Science, Hanyang University, Seoul, Korea, Feb.2021<br>
-Room 111, R&D Building<br>
+M.S in Computer Science, Hanyang University, Seoul, Korea, Aug.2023<br>
+Room 702, IT.BT Building<br>
 e-mail: palkan21@hanyang.ac.kr
 <p/>
 
