@@ -45,7 +45,7 @@ Physically-Based Character Control
 <br>
 <div class="paper">
 <span class="image left">
-<img src="../assets/publications/2023-learning-human-like/rep-human-like.png" style="max-width: 220px; height: auto; " alt="" />
+<img src="../assets/publications/2023-learning-human-like/rep-human-like.jpg" style="max-width: 220px; height: auto; " alt="" />
 </span>
 <span class="info right">
 <a target="_black" rel="noopener noreferrer" href="https://dl.acm.org/doi/pdf/10.1145/3588028.3603646">Learning Human-like Locomotion Based on Biological Actuation and Rewards</a><br>
