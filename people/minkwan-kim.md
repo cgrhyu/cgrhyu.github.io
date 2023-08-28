@@ -42,3 +42,14 @@ Physically-Based Character Control
 한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 61-62, 2022.07.<br>
 </span>
 </div>
+<br>
+<div class="paper">
+<span class="image left">
+<img src="../assets/publications/2023-learning-human-like/rep-human-like.png" style="max-width: 220px; height: auto; " alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://dl.acm.org/doi/pdf/10.1145/3588028.3603646">Learning Human-like Locomotion Based on Biological Actuation and Rewards</a><br>
+김민관, 이윤상<br>
+SIGGRAPH '23: ACM SIGGRAPH 2023 Posters, Article No.: 5, July 2023<br>
+</span>
+</div>
