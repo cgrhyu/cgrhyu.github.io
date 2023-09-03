@@ -24,7 +24,7 @@ e-mail: jho6394@hanyang.ac.kr
 </section>
 
 ## Research Interests
-Deep Reignforcement Learning
+Deep Reinforcement Learning
 <br>Deep Neural Network
 <br>Real-time Rendering
 <br>Physics Simulation
