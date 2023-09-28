@@ -149,7 +149,7 @@ nav-menu: true
     <div class="4u 12u$(small)">
     <p>
 		<span class="image left"><img src="assets/people/jaykyoon-yim/jaykyoon-yim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Yumin Lee</b>
+		<b>Jaykyoon Yim</b>
 		<font size="3">임재균</font><br/>
     </p>
     </div>
