@@ -4,12 +4,12 @@ var publications_eng = [
 		'authors': 'Taesoo Kwon, Taehong Gu, Jaewon Ahn, Yoonsang Lee',
 		'conference_journal': 'SIGGRAPH Asia',
 		'year': 2023,
-		'conference_journal_full': 'To be appeared in SIGGRAPH Asia 2023',
+		'conference_journal_full': 'SA \'23: SIGGRAPH Asia 2023 Conference Papers, Article No.: 118, December 2023',
 		'representative_img': 'assets/publications/2023-adaptive-tracking/thumb-adaptive-tracking.jpg',
 		'video_iframe': '<iframe width="560" height="315" src="https://www.youtube.com/embed/oY_6dgF9P7k" title="Adaptive Tracking of a Single-Rigid-Body Character in Various Environments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'http://calab.hanyang.ac.kr/papers/adaptiveSRB.html',
 		'type': 'paper',
-        'additional': '<a href="https://arxiv.org/abs/2308.07491">[arXiv]</a>',
+        'additional': '<a href="https://dl.acm.org/doi/10.1145/3610548.3618187">[publisher link]</a> <a href="https://arxiv.org/abs/2308.07491">[arXiv]</a> <a href="https://youtu.be/oY_6dgF9P7k">[video]</a> <a href="https://github.com/taesoobear/IPCDNNwalk">[code]</a>',
 	},
 	{
 		'title': 'Learning Human-like Locomotion Based on Biological Actuation and Rewards',
@@ -21,6 +21,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/QPGUvpJm_Hk" title="Learning Human-like Locomotion Based on Biological Actuation and Rewards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-learning-human-like.html',
 		'type': 'poster',
+        'additional': '<a href="https://dl.acm.org/doi/abs/10.1145/3588028.3603646">[publisher link]</a> <a href="https://youtu.be/QPGUvpJm_Hk">[video]</a>',
 	},
 	{
 		'title': 'Interactive Character Path-Following Using Long-Horizon Motion Matching With Revised Future Queries',
@@ -31,6 +32,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/N357UBDALpw" title="Interactive Character Path-Following using Long-Horizon Motion Matching with Revised Future Queries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-path-following.html',
 		'type': 'paper',
+        'additional': '<a href="https://ieeexplore.ieee.org/document/10029373">[publisher link]</a> <a href="https://youtu.be/N357UBDALpw">[video]</a>',
 	},
 	{
 		'title': 'Understanding the Stability of Deep Control Policies for Biped Locomotion ',
@@ -40,6 +42,7 @@ var publications_eng = [
 		'conference_journal_full': 'The Visual Computer, Volume 39, 473-487, January 2022',
 		'project_page': 'https://mrl.snu.ac.kr/research/ProjectDeepStability/deepstability.htm',
 		'type': 'paper',
+        'additional': '<a href="https://link.springer.com/article/10.1007/s00371-021-02342-9">[publisher link]</a> <a href="https://github.com/snumrl/DeepPushRecovery">[code]</a>',
 	},
 	{
 		'title': 'Learning Time-series Interaction Data by Association',
@@ -59,6 +62,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1047" height="589" src="https://www.youtube.com/embed/jqgf-sHqCz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'project_page': 'publications/2021-fsm-learning.html',
 		'type': 'paper',
+        'additional': '<a href="https://ieeexplore.ieee.org/document/9337805">[publisher link]</a> <a href="https://youtu.be/jqgf-sHqCz0">[video]</a>',
 	},
 	{
 		'title': 'Fast and Flexible Multilegged Locomotion Using Learned Centroidal Dynamics',
