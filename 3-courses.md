@@ -8,6 +8,11 @@ nav-menu: true
 <section id="one">
 <div class="inner">
 
+<h3>2023 Fall</h3>
+<ul>
+<li><a href="courses/2023-fall-csd.html">ITE1015 Creative Software Design</a></li>
+</ul>
+
 <h3>2023 Spring</h3>
 <ul>
 <li><a href="courses/2023-spring-cg.html">CSE4020 Computer Graphics <i><b>(with Modern OpenGL)</b></i> × 2</a></li>
