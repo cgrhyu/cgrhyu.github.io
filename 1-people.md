@@ -154,14 +154,6 @@ nav-menu: true
     </p>
     </div>
 
-    <div class="4u 12u$(small)">
-    <p>
-		<span class="image left"><img src="assets/people/vitoria-baldan/vitoria-baldan.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Vitoria Ongaratto Baldan</b><br/>
-		<font size="3">비토리아</font><br/>
-    </p>
-    </div>
-
 </div>
 <p/>
 
