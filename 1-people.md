@@ -180,9 +180,8 @@ nav-menu: true
 		<span class="image left"><img src="assets/people/jeongmin-lee/jeongmin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b><a href="people/jeongmin-lee.html">Jeongmin Lee</a></b>
 		<font size="3">이정민</font><br/>
-		<!--j0064423@hanyang.ac.kr<br/>-->
+		<!--j0064423@gmail.com<br/>-->
 		M.S. 2022<br/>
-		Samsung Research<br/>
 	</p>
 	</div>
 
