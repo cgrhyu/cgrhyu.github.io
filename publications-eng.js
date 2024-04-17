@@ -7,10 +7,10 @@ var publications_eng = [
 		'conference_journal_full': 'Eurographics 2024 Short Papers (to be appeared)',
 		'representative_img': 'assets/publications/2024-matching-drl/thumb-matching-drl.png',
 		'video_iframe': '<iframe width="1169" height="658" src="https://www.youtube.com/embed/kR47MrPhJGk" title="Utilizing Motion Matching with Deep Reinforcement Learning for Target Location Tasks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
-		//'project_page': 'http://calab.hanyang.ac.kr/papers/adaptiveSRB.html',
+		'project_page': 'publications/2024-matching-drl.html',
 		'type': 'paper',
         //'additional': '<a href="https://dl.acm.org/doi/10.1145/3610548.3618187" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://arxiv.org/abs/2308.07491" rel="noopener noreferrer" target="_blank">[arXiv]</a> <a href="https://youtu.be/oY_6dgF9P7k" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://github.com/taesoobear/IPCDNNwalk" rel="noopener noreferrer" target="_blank">[code]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2023-adaptive-tracking/adaptive-v3.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2023-adaptive-tracking/adaptive-v3.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
-        'additional': '<a href="https://arxiv.org/abs/2403.15902" rel="noopener noreferrer" target="_blank">[arXiv]</a> <a href="https://youtu.be/kR47MrPhJGk" rel="noopener noreferrer" target="_blank">[video]</a>',
+        'additional': '<a href="https://diglib.eg.org/handle/10.2312/egs20241020" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://arxiv.org/abs/2403.15902" rel="noopener noreferrer" target="_blank">[arXiv]</a> <a href="https://youtu.be/kR47MrPhJGk" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://docs.google.com/presentation/d/1Lh3YHcifZENdICkAd08j63hd2NJblzyv/edit?usp=sharing&ouid=101123024955875447919&rtpof=true&sd=true" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
 	},
 	{
 		'title': 'Adaptive Tracking of a Single-Rigid-Body Character in Various Environments',
