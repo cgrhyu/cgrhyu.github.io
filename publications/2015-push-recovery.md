@@ -15,17 +15,17 @@ SIGGRAPH Asia 2015
 Biped controller design pursues two fundamental goals; simulated walking should look human-like and robust against perturbation while maintaining its balance. Normal gait is a pattern of walking that humans normally adopt in undisturbed situations. It has previously been postulated that normal gait is more energy efficient than abnormal or impaired gaits. However, it is not clear whether normal gait is also superior to abnormal gait patterns with respect to other factors, such as stability. Understanding the correlation between gait and stability is an important aspect of biped controller design. We studied this issue in two sets of experiments with human participants and a simulated biped. The experiments evaluated the degree of resilience to external pushes for various gait patterns. We identified four gait factors that affect the balance-recovery capabilities of both human and simulated walking. We found that crouch gait is significantly more stable than normal gait against lateral push. Walking speed and the timing/magnitude of disturbance also affect gait stability. Our work would provide a potential way to  compare the performance of biped controllers by normalizing their output gaits and improve their performance by adjusting these decisive factors. 
 
 ## Paper
-Publisher link: [ACM Digital Library](https://dl.acm.org/doi/10.1145/2816795.2818124)\
-Preprint: [pdf](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery.pdf) (5.0MB)
+Publisher: [page](https://dl.acm.org/doi/10.1145/2816795.2818124), [paper](https://dl.acm.org/doi/pdf/10.1145/2816795.2818124)\
+Preprint: [paper](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery.pdf)
 
 ## Video 
 <div id="iframe_container"> <div id="iframe">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/KrTDh5Zhlac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></div>  
-Download: [mp4](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery.mp4) (69.3MB)
+[Download mp4 (69.3MB)](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery.mp4)
 
 ## Slides
-SIGGRAPH Asia 2015 talk slides: [pptx](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pptx) (127.2MB) or [pdf](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pdf) (1.6MB) 
+SIGGRAPH Asia 2015 presentation slides: [pdf](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pdf) (1.6MB), [pptx](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pptx) (127.2MB)
 
 ## Data
 Human & simulation measurement data : [zip](https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-data.zip) (1.2MB)  

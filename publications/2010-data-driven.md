@@ -15,8 +15,8 @@ SIGGRAPH 2010
 We present a dynamic controller to physically simulate under-actuated three-dimensional full-body biped locomotion. Our data-driven controller takes motion capture reference data to reproduce realistic human locomotion through realtime physically based simulation. The key idea is modulating the reference trajectory continuously and seamlessly such that even a simple dynamic tracking controller can follow the reference trajectory while maintaining its balance. In our framework, biped control can be facilitated by a large array of existing data-driven animation techniques because our controller can take a stream of reference data generated on-the-fly at runtime. We demonstrate the effectiveness of our approach through examples that allow bipeds to turn, spin, and walk while steering its direction interactively. 
 
 ## Paper
-Publisher link: [ACM Digital Library](https://dl.acm.org/doi/10.1145/1778765.1781155)\
-Preprint: [pdf](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010.pdf) (1.4MB)
+Publisher: [page](https://dl.acm.org/doi/10.1145/1778765.1781155), [paper](https://dl.acm.org/doi/pdf/10.1145/1778765.1781155)\
+Preprint: [paper](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010.pdf)
 
 ## Video 
 <div id="iframe_container"> <div id="iframe">
@@ -31,7 +31,7 @@ Spinning example:
 - 1/4 speed - [mov](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/spin_0.25x.mov) (4.7MB) 
 
 ## Slides
-SIGGRAPH 2010 talk slides: [pdf](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides.pdf) (0.7MB) / [pptx](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides-with-video.zip) (132.7MB, with video)
+SIGGRAPH 2010 presentation slides: [pdf](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides.pdf) (0.7MB), [pptx](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides-with-video.zip) (132.7MB)
 
 ## Data
 Reference motion capture data : [zip](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010_motion.zip) (0.7MB) 
