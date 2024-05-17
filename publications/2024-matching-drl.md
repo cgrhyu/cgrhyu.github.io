@@ -12,7 +12,7 @@ Eurographics 2024 Short Papers
 We present an approach using deep reinforcement learning (DRL) to directly generate motion matching queries for long-term tasks, particularly targeting the reaching of specific locations. By integrating motion matching and DRL, our method demonstrates the rapid learning of policies for target location tasks within minutes on a standard desktop, employing a simple reward design. Additionally, we propose a unique hit reward and obstacle curriculum scheme to enhance policy learning in environments with moving obstacles.
 
 ## Paper
-Publisher: [page](https://diglib.eg.org/handle/10.2312/egs20241020), paper\
+Publisher: [page](https://diglib.eg.org/handle/10.2312/egs20241020), [paper](https://diglib.eg.org/bitstreams/f6553650-e450-4e96-8739-822b124092ab/download)\
 <!--Publisher link: [ArXiv](https://arxiv.org/abs/2403.15902)\-->
 arXiv: [page](https://arxiv.org/abs/2403.15902), [paper](https://arxiv.org/pdf/2403.15902)
 
