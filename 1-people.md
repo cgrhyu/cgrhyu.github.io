@@ -152,13 +152,13 @@ nav-menu: true
 	</p>
 	</div>
         
-        <div class="4u 12u$(small)">
+    <div class="4u 12u$(small)">
         <p>
 		<span class="image left"><img src="assets/people/yumin-lee/yumin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Yumin Lee</b>
 		<font size="3">이유민</font><br/>
-        </p>
-        </div>
+    </p>
+    </div>
 
         <!-- div class="4u 12u$(small)">
    	 <p>
@@ -167,6 +167,14 @@ nav-menu: true
                 <font size="3">임재균</font><br/>
    	 </p>
     	</div -->
+
+	<div class="4u 12u$(small)">
+        <p>
+		<span class="image left"><img src="assets/people/changho-lee/changho-lee.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Changho Lee</b>
+		<font size="3">이창호</font><br/>
+    </p>
+    </div>
 </div>
 <p/>
 
