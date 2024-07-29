@@ -25,6 +25,20 @@ nav-menu: true
 
 <p/>
 
+<h2>Post Doc.</h2>
+<div class="row">
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/wanuk-choi/wanuk-choi.png" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/wanuk-choi.html">Wanuk Choi</a></b>
+		<font size="3">최완욱</font><br/>
+		dhksdnr2003@hanyang.ac.kr<br/>
+	</p>
+	</div>
+</div>
+
+<p/>
+
 <h2>Ph.D. Students</h2>
 <div class="row">
 	<div class="4u 12u$(small)">
@@ -36,12 +50,6 @@ nav-menu: true
 	</p>
 	</div>
 
-</div>
-
-<p/>
-
-<h2>M.S. Students</h2>
-<div class="row">
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minkwan-kim/minkwan-kim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
@@ -50,7 +58,12 @@ nav-menu: true
 		palkan21@hanyang.ac.kr<br/>
 	</p>
 	</div>
+</div>
 
+<p/>
+
+<h2>M.S. Students</h2>
+<div class="row">
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minji-kang/minji-kang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
@@ -69,43 +82,67 @@ nav-menu: true
 	</p>
 	</div>
 
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/bokyeong-jang.html">Bokyeong Jang</a></b>
+		<font size="3">장보경</font><br/>
+		jbok6825@naver.com<br/>
+	</p>
+	</div>
 </div>
+<div class="row">
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/eunho-jung.html">Eunho Jung</a></b>
+		<font size="3">정은호</font><br/>
+		jho6394@hanyang.ac.kr<br/>
+	</p>
+	</div>
+	
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/chanwoo-baek/chanwoo-baek.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/chanwoo-baek.html">Chanwoo Baek</a></b>
+		<font size="3">백찬우</font><br/>
+		bcw0430@hanyang.ac.kr<br/>
+	</p>
+	</div>
+
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/minsu-kim/minsu-kim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/minsu-kim.html">Minsu Kim</a></b>
+		<font size="3">김민수</font><br/>
+		igotaspot426@gmail.com<br/>
+	</p>
+	</div>
+
+</div>
+<div class="row">
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/hauk-nam.html">Hauk Nam</a></b>
+		<font size="3">남하욱</font><br/>
+		namhoyog@naver.com<br/>
+	</p>
+	</div>
+</div>
+
 
 <p/>
 
 <h2>Undergraduate Students</h2>
-<div class="row">
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Bokyeong Jang</b>
-		<font size="3">장보경</font><br/>
-	</p>
-	</div>
-
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Eunho Jung</b>
-		<font size="3">정은호</font><br/>
-	</p>
-	</div>
-	
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Hauk Nam</b>
-		<font size="3">남하욱</font><br/>
-	</p>
-	</div>
-	
-	<div class="4u 12u$(small)">
+<div class="row">	
+	<!-- div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minwoo-park/minwoo-park.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Minwoo Park</b>
 		<font size="3">박민우</font><br/>
 	</p>
-	</div>
+	</div -->
 	
 	<div class="4u 12u$(small)">
 	<p>
@@ -114,14 +151,30 @@ nav-menu: true
 		<font size="3">이해우</font><br/>
 	</p>
 	</div>
-	
-        <div class="4u 12u$(small)">
-	<p>
+        
+    <div class="4u 12u$(small)">
+        <p>
 		<span class="image left"><img src="assets/people/yumin-lee/yumin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Yumin Lee</b>
 		<font size="3">이유민</font><br/>
-	</p>
-	</div>
+    </p>
+    </div>
+
+        <!-- div class="4u 12u$(small)">
+   	 <p>
+                <span class="image left"><img src="assets/people/jaykyoon-yim/jaykyoon-yim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+                <b>Jaykyoon Yim</b>
+                <font size="3">임재균</font><br/>
+   	 </p>
+    	</div -->
+
+	<div class="4u 12u$(small)">
+        <p>
+		<span class="image left"><img src="assets/people/changho-lee/changho-lee.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Changho Lee</b>
+		<font size="3">이창호</font><br/>
+    </p>
+    </div>
 </div>
 <p/>
 
@@ -132,9 +185,8 @@ nav-menu: true
 		<span class="image left"><img src="assets/people/jeongmin-lee/jeongmin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b><a href="people/jeongmin-lee.html">Jeongmin Lee</a></b>
 		<font size="3">이정민</font><br/>
-		<!--j0064423@hanyang.ac.kr<br/>-->
+		<!--j0064423@gmail.com<br/>-->
 		M.S. 2022<br/>
-		Samsung Research<br/>
 	</p>
 	</div>
 
