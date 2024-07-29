@@ -10,8 +10,8 @@ show_tile: false
 		<span class="image left"><img src="../assets/people/jeongmin-lee/jeongmin-lee.jpg" alt="" /></span>
 
 <h2>Jeongmin Lee</h2>
-Software Engineer of Samsung Research, Seoul, Korea, Sep.2022~<br>
-e-mail: j0064423@hanyang.ac.kr
+Software Engineer of Samsung Electronics Co., Jul.2022~<br>
+e-mail: j0064423@gmail.com
 <p/>
 
     </div>
@@ -37,29 +37,43 @@ Deep Reinforcement Learning
 ## Publications
 <div class="paper">
 <span class="image left">
-<img src="../assets/publications/domestic/2020-journalkcgs-luxo.png" style="max-width: 220px; height: auto; " alt="" />
+<img src="../assets/publications/2024-matching-drl/thumb-matching-drl.png" style="width: 220px; height: 130px; object-fit:cover" alt="" />
 </span>
 <span class="info right">
-<a target="_black" rel="noopener noreferrer" href="https://doi.org/10.15701/kcgs.2020.26.4.1">심층 강화 학습을이용한 Luxo 캐릭터의 제어</a><br>
-이정민, 이윤상 <br>
-컴퓨터그래픽스학회논문지, 제26권 제4호, 1-8, 2020.09.<br>
+<a target="_black" rel="noopener noreferrer" href="../publications/2024-matching-drl.html">Utilizing Motion Matching with Deep Reinforcement Learning for Target Location Tasks</a><br>
+Jeongmin Lee, Taesoo Kwon, Hyunju Shin, Yoonsang Lee<br>
+Eurographics Short Papers, April 2024<br>
 </span>
 </div>
 <br>
+
 <div class="paper">
-<span class="image left" style="display:inline-block; width:220px;"> 
-<img src="../assets/publications/domestic/2021-kcgsjournal-2dtraj.png" style="max-width: 220px; height: 150px; " alt="" />
+<span class="image left">
+<img src="../assets/publications/2023-path-following/representative.png" style="width: 220px; height: 130px; object-fit:cover" alt="" />
 </span>
 <span class="info right">
-<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-2d-traj.pdf">2D 이동 경로 지정을 통한 모션 매칭 기반 캐릭터 모션 생성</a><br>
-이정민, 이윤상 <br>
-한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 68-69, 2021.07.<br>
+<a target="_black" rel="noopener noreferrer" href="../publications/2023-path-following.html">Interactive Character Path-Following Using Long-Horizon Motion Matching With Revised Future Queries</a><br>
+Jeongmin Lee, Taesoo Kwon, Yoonsang Lee<br>
+IEEE Access, Volume 11, 9942-9956, January 2023<br>
 </span>
 </div>
 <br>
+
 <div class="paper">
-<span class="image left" style="display:inline-block; width:220px;"> 
-<img src="../assets/publications/domestic/2022-kcgs-interactivePathFollowing.png" style="max-width: 220px; height: 150px; " alt="" />
+<span class="image left" style="width:220px;"> 
+<img src="../assets/publications/domestic/2022-kcgs-drlMotionMatching.png" style="width: 220px; height: 130px; object-fit:cover" alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-drlMotionMatching.pdf">심층 강화 학습과 모션 매칭을 이용한 캐릭터 애니메이션 생성</a><br>
+이정민, 권태수, 이윤상 <br>
+한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 65-66, 2022.07.<br>
+</span>
+</div>
+<br>
+
+<div class="paper">
+<span class="image left" style="width:220px;"> 
+<img src="../assets/publications/domestic/2022-kcgs-interactivePathFollowing.png" style="width: 220px; height: 130px; object-fit:cover" alt="" />
 </span>
 <span class="info right">
 <a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-interactivePathFollowing.pdf">모션 매칭을 활용한 상호작용적 캐릭터 경로 추적</a><br>
@@ -68,13 +82,26 @@ Deep Reinforcement Learning
 </span>
 </div>
 <br>
+
 <div class="paper">
-<span class="image left" style="display:inline-block; width:220px;"> 
-<img src="../assets/publications/domestic/2022-kcgs-drlMotionMatching.png" style="max-width: 220px; height: 150px; " alt="" />
+<span class="image left" style="width: 220px; height: 130px; object-fit:cover"> 
+<img src="../assets/publications/domestic/2021-kcgsjournal-2dtraj.png" style="width: 220px; height: 130px; object-fit:cover object-position: 0 -20%" alt="" />
 </span>
 <span class="info right">
-<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-drlMotionMatching.pdf">심층 강화 학습과 모션 매칭을 이용한 캐릭터 애니메이션 생성</a><br>
-이정민, 권태수, 이윤상 <br>
-한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 65-66, 2022.07.<br>
+<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-2d-traj.pdf">2D 이동 경로 지정을 통한 모션 매칭 기반 캐릭터 모션 생성</a><br>
+이정민, 이윤상 <br>
+한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 68-69, 2021.07.<br>
+</span>
+</div>
+<br>
+
+<div class="paper">
+<span class="image left" style="width:220px;">
+<img src="../assets/publications/domestic/2020-journalkcgs-luxo.png" style="width: 220px; height: 130px; object-fit:cover" alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://doi.org/10.15701/kcgs.2020.26.4.1">심층 강화 학습을이용한 Luxo 캐릭터의 제어</a><br>
+이정민, 이윤상 <br>
+컴퓨터그래픽스학회논문지, 제26권 제4호, 1-8, 2020.09.<br>
 </span>
 </div>
