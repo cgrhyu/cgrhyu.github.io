@@ -1,4 +1,12 @@
 var publications_kor = [
+    {   'title': '멀티 터치 장치를 통한 캐릭터의 이동 동작 제어',
+        'representative_img':'assets/publications/domestic/2024-kcgs-MultiTouch.png',
+        'year': 2024,
+        'authors': '박근태, 이지원, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 47-48, 2024.07.',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-MultiTouch.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
+        'type': 'extended_abstract',
+    },
     {   'title': '물건을 던져서 싣는 사족보행 로봇 제어',
         'representative_img':'assets/publications/domestic/2023-ksc-toss-and-load.png',
         'year': 2023,
