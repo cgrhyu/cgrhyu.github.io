@@ -1,4 +1,12 @@
 var publications_kor = [
+    {   'title': '전신 모션 데이터를 이용한 실시간 얼굴 애니메이션 생성',
+        'representative_img':'assets/publications/domestic/2024-kcgs-facial-animation.png',
+        'year': 2024,
+        'authors': '장보경, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 38-39, 2024.07.',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-facial-animation.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
+        'type': 'extended_abstract',
+    },
     {   'title': '물건을 던져서 싣는 사족보행 로봇 제어',
         'representative_img':'assets/publications/domestic/2023-ksc-toss-and-load.png',
         'year': 2023,
