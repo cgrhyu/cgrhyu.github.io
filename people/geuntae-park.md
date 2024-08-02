@@ -45,3 +45,7 @@ ICEIC 2021<br>
 박근태, 이지원, 이윤상<br>
 한국컴퓨터그래픽스학회 2023년 학술대회 논문집, 47-48, 2023.07.<br>
 <br>
+**[멀티 터치 장치를 통한 캐릭터의 이동 동작 제어](https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-MultiTouch.pdf)**<br>
+박근태, 이지원, 이윤상<br>
+한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 47-48, 2024.07.<br>
+<br>
