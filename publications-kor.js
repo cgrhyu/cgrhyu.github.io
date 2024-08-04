@@ -1,4 +1,12 @@
 var publications_kor = [
+    {   'title': '인체 근골격 모델의 현실적인 보행 동작 생성을 위한 평균 상태 손실 함수를 이용하는 모델 기반 강화학습',
+        'representative_img':'assets/publications/domestic/2024-kcgs-AverageStateMusculoSkeletalLocomotion.png',
+        'year': 2024,
+        'authors': '김민관, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 40-41, 2024.07.',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-AverageStateMusculoSkeletalLocomotion.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
+        'type': 'extended_abstract',
+    },
     {   'title': '전신 모션 데이터를 이용한 실시간 얼굴 애니메이션 생성',
         'representative_img':'assets/publications/domestic/2024-kcgs-facial-animation.png',
         'year': 2024,
