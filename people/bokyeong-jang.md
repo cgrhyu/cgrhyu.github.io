@@ -31,6 +31,7 @@ Data-driven Character Control
 <br>
 
 ## Publications
-<br>
-<br>
+**[전신 모션 데이터를 이용한 실시간 얼굴 애니메이션 생성](https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-facial-animation.pdf)**<br>
+장보경, 이윤상<br>
+한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 38-39, 2024.07.<br>
 <br>
