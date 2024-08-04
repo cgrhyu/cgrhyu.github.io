@@ -33,6 +33,26 @@ Multi Agent Reinforcement Learning<br>
 <br>
 <br>
 ## Publications
+
+<div class="paper">
+<span class="image left" style="width: 220px; height: 130px; object-fit:cover"> 
+<img src="../assets/publications/domestic/2024-kcgs-dribble.png" style="width: 220px; height: 130px; object-fit:cover object-position: 0 -20%" alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-dribble.pdf">물리기반 캐릭터의 축구 드리블 스킬 학습</a><br>
+김민수, 이윤상 <br>
+한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 55-56, 2024.07.<br>
+</span>
+</div>
 <br>
-<br>
-<br>
+
+<div class="paper">
+<span class="image left" style="width: 220px; height: 130px; object-fit:cover"> 
+<img src="../assets/publications/domestic/2024-kcgs-latent-matching.png" style="width: 220px; height: 130px; object-fit:cover object-position: 0 -20%" alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-latent-matching.pdf">시뮬레이션 되는 휴머노이드 컨트롤을 위한 잠재변수 매칭</a><br>
+김민수, 이윤상 <br>
+한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 42-43, 2024.07.<br>
+</span>
+</div>
