@@ -118,11 +118,6 @@ nav-menu: true
 		igotaspot426@gmail.com<br/>
 	</p>
 	</div>
-
-</div>
-
-<p/>
-
 </div>
 <div class="row">
 	<div class="4u 12u$(small)">
