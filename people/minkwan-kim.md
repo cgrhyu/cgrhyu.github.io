@@ -40,4 +40,8 @@ Physically-Based Character Control
 김민관, 이윤상<br>
 SIGGRAPH '23: ACM SIGGRAPH 2023 Posters, Article No.: 5, July 2023<br>
 <br>
+**[인체 근골격 모델의 현실적인 보행 동작 생성을 위한 평균 상태 손실 함수를 이용하는 모델 기반 강화학습](https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-AverageStateMusculoSkeletalLocomotion.pdf)**<br>
+김민관, 이윤상<br>
+한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 40-41, 2024.07.<br>
+<br>
 
