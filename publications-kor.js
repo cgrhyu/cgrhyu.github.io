@@ -13,6 +13,7 @@ var publications_kor = [
         'authors': '김민수, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 42-43, 2024.07.',
         'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-latent-matching.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
+    },
     {   'title': '인체 근골격 모델의 현실적인 보행 동작 생성을 위한 평균 상태 손실 함수를 이용하는 모델 기반 강화학습',
         'representative_img':'assets/publications/domestic/2024-kcgs-AverageStateMusculoSkeletalLocomotion.png',
         'year': 2024,
