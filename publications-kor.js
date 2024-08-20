@@ -1,4 +1,13 @@
 var publications_kor = [
+    {
+        'title': '강화학습을 이용한 나비의 비행 동작 생성',
+        'representative_img':'assets/publications/domestic/2024-kcgs-ButterflyRL.png',
+        'year': 2024,
+        'authors': '정은호, 장이권, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 88-89, 2024.07.',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-ButterflyRL.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
+        'type': 'extended_abstract',
+    },
     {   'title': '물리기반 캐릭터의 축구 드리블 스킬 학습',
         'representative_img':'assets/publications/domestic/2024-kcgs-dribble.png',
         'year': 2024,

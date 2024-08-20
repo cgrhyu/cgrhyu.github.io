@@ -31,6 +31,10 @@ Deep Reinforcement Learning
 <br>
 
 ## Publications
+**[강화학습을 이용한 나비의 비행 동작 생성](https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-ButterflyRL.pdf)**
 <br>
+정은호, 장이권, 이윤상
+<br>
+한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 88-89, 2024.07.
 <br>
 <br>
