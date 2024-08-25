@@ -1,5 +1,14 @@
 var publications_kor = [
     {
+        'title': 'IB-LBM 시뮬레이션을 이용한 물고기 동작 정책 학습',
+        'representative_img':'assets/publications/domestic/2024-kcgs-FishRL.png',
+        'year': 2024,
+        'authors': '최완욱, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 84-85, 2024.07.',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-FishRL.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
+        'type': 'extended_abstract',
+    },
+    {
         'title': '강화학습을 이용한 나비의 비행 동작 생성',
         'representative_img':'assets/publications/domestic/2024-kcgs-ButterflyRL.png',
         'year': 2024,

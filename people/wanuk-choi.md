@@ -32,6 +32,11 @@ Physically-Based Character Control
 <br>
 <br>
 ## Publications
+**[IB-LBM 시뮬레이션을 이용한 물고기 동작 정책 학습](https://gitcgr.hanyang.ac.kr/publications/domestic/2024-kcgs-FishRL.pdf)**<br>
+최완욱, 이윤상
+한국컴퓨터그래픽스학회 2024년 학술대회 논문집, 84-85, 2024.07.
+<br>
+<br>
 **PEIPNet: Parametric Efficient Image-Inpainting Network with Depthwise and Pointwise Convolution**<br>
 Jaekyun Ko, Wanuk Choi, Sanghwan Lee<br>
 Sensors, 2023, 23(19), 8313, October 2023<br>
