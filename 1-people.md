@@ -128,6 +128,15 @@ nav-menu: true
 		namhoyog@naver.com<br/>
 	</p>
 	</div>
+
+	<div class="4u 12u$(small)">
+    <p>
+		<span class="image left"><img src="assets/people/yumin-lee/yumin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/yumin-lee.html">Yumin Lee</a></b>
+		<font size="3">이유민</font><br/>
+		yum0315@hanyang.ac.kr<br/>
+    </p>
+    </div>
 </div>
 
 
@@ -150,14 +159,6 @@ nav-menu: true
 		<font size="3">이해우</font><br/>
 	</p>
 	</div -->
-        
-    <div class="4u 12u$(small)">
-        <p>
-		<span class="image left"><img src="assets/people/yumin-lee/yumin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Yumin Lee</b>
-		<font size="3">이유민</font><br/>
-    </p>
-    </div>
 
         <!-- div class="4u 12u$(small)">
    	 <p>
