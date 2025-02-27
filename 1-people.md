@@ -137,6 +137,15 @@ nav-menu: true
 		yum0315@hanyang.ac.kr<br/>
     </p>
     </div>
+
+	<div class="4u 12u$(small)">
+    <p>
+		<span class="image left"><img src="assets/people/kyungeon-byeon/kyungeon-byeon.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/kyungeon-byeon.html">Kyungeon Byeon</a></b>
+		<font size="3">변경언</font><br/>
+		byeon9980@hanyang.ac.kr<br/>
+    </p>
+    </div>
 </div>
 
 
