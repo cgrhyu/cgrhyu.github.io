@@ -36,6 +36,18 @@ Multi Agent Reinforcement Learning<br>
 
 <div class="paper">
 <span class="image left" style="width: 220px; height: 130px; object-fit:cover"> 
+<img src="../assets/publications/2025-physicsfc/thumb-physicsfc.jpg" style="width: 220px; height: 130px; object-fit:cover object-position: 0 -20%" alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://cgrhyu.github.io/publications/2025-physicsfc.html">PhysicsFC: Learning User-Controlled Skills for a Physics-Based Football Player Controller</a><br>
+Minsu Kim, Eunho Jung, Yoonsang Lee<br>
+ACM Transactions on Graphics (SIGGRAPH 2025), August 2025<br>
+</span>
+</div>
+<br>
+
+<div class="paper">
+<span class="image left" style="width: 220px; height: 130px; object-fit:cover"> 
 <img src="../assets/publications/domestic/2024-kcgs-dribble.png" style="width: 220px; height: 130px; object-fit:cover object-position: 0 -20%" alt="" />
 </span>
 <span class="info right">
