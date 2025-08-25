@@ -68,41 +68,13 @@ nav-menu: true
 <div class="row">	
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b><a href="people/bokyeong-jang.html">Bokyeong Jang</a></b>
-		<font size="3">장보경</font><br/>
-		jbok6825@naver.com<br/>
-	</p>
-	</div>
-	
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b><a href="people/eunho-jung.html">Eunho Jung</a></b>
-		<font size="3">정은호</font><br/>
-		jho6394@hanyang.ac.kr<br/>
-	</p>
-	</div>
-
-	<div class="4u 12u$(small)">
-	<p>
 		<span class="image left"><img src="assets/people/chanwoo-baek/chanwoo-baek.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b><a href="people/chanwoo-baek.html">Chanwoo Baek</a></b>
 		<font size="3">백찬우</font><br/>
 		bcw0430@hanyang.ac.kr<br/>
 	</p>
 	</div>
-</div>
-<div class="row">
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/minsu-kim/minsu-kim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b><a href="people/minsu-kim.html">Minsu Kim</a></b>
-		<font size="3">김민수</font><br/>
-		igotaspot426@gmail.com<br/>
-	</p>
-	</div>
-	
+
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
@@ -186,6 +158,38 @@ nav-menu: true
 <p/>
 
 <h2>Alumni</h2>
+<div class="row">
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/bokyeong-jang.html">Bokyeong Jang</a></b>
+		<font size="3">장보경</font><br/>
+		<!--jbok6825@naver.com<br/>-->
+		M.S., Aug. 2025<br/>
+	</p>
+	</div>
+	
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/eunho-jung.html">Eunho Jung</a></b>
+		<font size="3">정은호</font><br/>
+		<!--jho6394@hanyang.ac.kr<br/>-->
+		M.S., Aug. 2025<br/>
+	</p>
+	</div>
+
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/minsu-kim/minsu-kim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/minsu-kim.html">Minsu Kim</a></b>
+		<font size="3">김민수</font><br/>
+		<!--igotaspot426@gmail.com<br/>-->
+		M.S., Aug. 2025<br/>
+	</p>
+	</div>
+
+</div>
 <div class="row">
 	<div class="4u 12u$(small)">
 	<p>
