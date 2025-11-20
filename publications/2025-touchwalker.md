@@ -23,14 +23,14 @@ show_tile: false
 </div>
 
 <div class="link-buttons">
-  <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
+  <a href="https://www.computer.org/csdl/proceedings-article/ismar/2025/876100a582/2byAkM9tRiE" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="ai ai-doi"></span>
-    <span>Publisher (coming soon)</span>
+    <span>Publisher</span>
   </a>
 
-  <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
+  <a href="https://arxiv.org/abs/2511.07860" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="ai ai-arxiv"></span>
-    <span>arXiv (coming soon)</span>
+    <span>arXiv</span>
   </a>
 
   <a href="https://gitcgr.hanyang.ac.kr/publications/2025-touchwalker/touchwalker-ismar-presentation.pdf" rel="noopener noreferrer" target="_blank" class="button icon">
@@ -61,10 +61,9 @@ show_tile: false
  We present TouchWalker, a real-time system for controlling full-body avatar locomotion using finger-walking gestures on a touchscreen. The system comprises two main components: TouchWalker-MotionNet, a neural motion generator that synthesizes full-body avatar motion on a per-frame basis from temporally sparse two-finger input, and TouchWalker-UI, a compact touch interface that interprets user touch input to avatar-relative foot positions. Unlike prior systems that rely on symbolic gesture triggers or predefined motion sequences, TouchWalker uses its neural component to generate continuous, context-aware full-body motion on a per-frame basis—including airborne phases such as running, even without input during mid-air steps—enabling more expressive and immediate interaction. To ensure accurate alignment between finger contacts and avatar motion, it employs a MoE-GRU architecture with a dedicated foot-alignment loss. We evaluate TouchWalker in a user study comparing it to a virtual joystick baseline with predefined motion across diverse locomotion tasks. Results show that TouchWalker improves users’ sense of embodiment, enjoyment, and immersion.
 
 ## Paper
-Publisher: Coming soon\
-arXiv: Coming soon\
-<!--Publisher link: [ArXiv](https://arxiv.org/abs/2403.15902)\-->
-<!--arXiv: [page](https://arxiv.org/abs/2504.21216), [paper](https://arxiv.org/pdf/2504.21216)-->
+Publisher: [page](https://doi.ieeecomputersociety.org/10.1109/ISMAR67309.2025.00068)
+\
+arXiv: [page](https://arxiv.org/abs/2511.07860), [paper](https://arxiv.org/pdf/2511.07860)
 
 
 ## Presentation

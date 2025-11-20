@@ -342,11 +342,6 @@
   color: #111 !important;
 }
 
-/* 링크는 가볍게 강조 */
-#news ul.features a{
-  text-decoration: underline;
-}
-
 /* 호버 시 살짝 떠보이게 */
 #news ul.features li:hover{
   transform: translateY(-1px);
@@ -406,14 +401,13 @@
 {
 	font-weight: bold; 
     text-align: center;
-    //margin-bottom: 5px;
     font-size: 1.3em; /* 기존 스타일 유지 */
     color: #000; /* 콤마(,)와 Venue 텍스트의 기본색은 짙은 회색으로 설정 */
 }
 
 .publication-page-style .affiliations
 {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .publication-page-style .additional

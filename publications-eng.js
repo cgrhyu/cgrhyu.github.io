@@ -45,8 +45,8 @@ var publications_eng = [
 		'type': 'paper',
 		'links':
 			[
-				{'Publisher': ''},
-				{'arXiv': ''},
+				{'Publisher': 'https://doi.ieeecomputersociety.org/10.1109/ISMAR67309.2025.00068'},
+				{'arXiv': 'https://arxiv.org/abs/2511.07860'},
 				{'Video': 'https://youtu.be/RO8SRQUstoI'},
 			],
 	},
