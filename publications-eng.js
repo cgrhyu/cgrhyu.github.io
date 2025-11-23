@@ -12,7 +12,7 @@ var publications_eng = [
 		'links':
 			[
 				{'Publisher': ''},
-				{'arXiv': ''},
+				{'arXiv': 'https://arxiv.org/abs/2511.14205'},
 				{'Video': 'https://youtu.be/YFNKLzUQ0zk'},
 			],
 	},

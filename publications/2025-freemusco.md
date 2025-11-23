@@ -71,9 +71,9 @@ show_tile: false
     <span>Publisher (coming soon)</span>
   </a>
 
-  <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
+  <a href="https://arxiv.org/abs/2511.14205" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="ai ai-arxiv"></span>
-    <span>arXiv (coming soon)</span>
+    <span>arXiv </span> 
   </a>
 
   <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
@@ -108,7 +108,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
 ![teaser](https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/fig_overview-v6.jpg)  
 -->
 
-
+<!--
 <section class="fullwidth-section2">
   <h2>System Overview</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; max-width: 1200px; margin: auto;">
@@ -132,6 +132,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
     </div>
   </div>
 </section>
+-->
 
 <!-- test gif
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; text-align: center;">
@@ -216,7 +217,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
       <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_rest_dense_control_compressed.mp4" type="video/mp4">
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_rest_dense_control_compressed.mp4" type="video/mp4"> <!--https://youtu.be/DtPPea1EODw-->
       </video>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Goal Velocity-Only
@@ -224,7 +225,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
     </div>
     <div style="padding: 8px; border-radius: 8px;">
       <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_global_control_compressed.mp4" type="video/mp4">
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_global_control_compressed.mp4" type="video/mp4"> <!--https://youtu.be/H1zTPru_yPY-->
       </video>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Goal Velocity + Direction
@@ -262,7 +263,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
     </div>
     <div style="padding: 8px; border-radius: 8px;">
       <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/ostrich_rest_control_compressed.mp4" type="video/mp4">
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/ostrich_rest_control_compressed.mp4" type="video/mp4"> <!--https://youtu.be/3SS7apL1dWQ-->
       </video>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Ostrich: Goal Velocity-Only
@@ -270,7 +271,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
     </div>
     <div style="padding: 8px; border-radius: 8px;">
       <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/ostrich_ankle_sky3_compressed.mp4" type="video/mp4">
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/ostrich_ankle_sky3_compressed.mp4" type="video/mp4"> <!--https://youtu.be/lvtsGscn2Hc-->
       </video>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Ostrich: Goal Velocity + Pose + Energy
@@ -390,7 +391,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
       <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_pathFollow_restDenseThorax2_compressed.mp4" type="video/mp4">
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_pathFollow_restDenseThorax2_compressed.mp4" type="video/mp4"> https://youtu.be/QH8ilQQaTRw
       </video>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Humanoid
@@ -398,7 +399,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
     </div>
     <div style="padding: 8px; border-radius: 8px;">
       <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/hulk_pathFollow1_compressed.mp4" type="video/mp4">
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/hulk_pathFollow1_compressed.mp4" type="video/mp4"> https://youtu.be/uWwg47TXzjs
       </video>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Chimanoid
@@ -407,7 +408,46 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   </div>
 </section>
 
+
 <section class="fullwidth-section">
+  <h2>Method </h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
+    <div style="padding: 8px; border-radius: 8px;">
+      <img src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/fig_overview-v6.jpg"
+           alt="Overview"
+           style="width: 100%; border-radius: 8px;">
+      <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
+        System Overview
+      </p>
+    </div>
+    <div style="padding: 8px; border-radius: 8px;">
+      <img src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/fig_loss-v1.jpg"
+           alt="Loss"
+           style="width: 100%; border-radius: 8px;">
+      <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
+        Locomotion Objective Loss
+      </p>
+    </div>
+    <div style="
+        grid-column: 1 / -1;
+        background-color: #f9f9f9;
+        padding: 16px 20px;
+        border-radius: 12px;
+        border: 1px solid #e0e0e0;
+        margin-top: 8px; 
+        text-align: center;
+      ">
+      <p style="font-size: 16px; line-height: 1.6; margin: 0; text-align: left; ">
+        FreeMusco builds on conditional VAE and model-based RL, guided by the locomotion objective loss with temporally averaged terms, to learn
+        energy-aware latent locomotion directly from muscle dynamics and goal signals without motion data.
+      </p>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="fullwidth-section2">
   <h2>Effect of Temporally Averaged Loss Formulation</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
@@ -427,17 +467,51 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/blender_ours_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/Mn6ZEFCjtZE?autoplay=1&mute=1&loop=1&playlist=Mn6ZEFCjtZE"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <!--<iframe 
+        width="100%" 
+        height="315"
+        src="https://www.youtube.com/embed/Mn6ZEFCjtZE?autoplay=1&mute=1&loop=1&playlist=Mn6ZEFCjtZE"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+      </iframe>-->
+      <!--<video width="100%" controls loop muted autoplay>
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/blender_ours_compressed.mp4" type="video/mp4"> https://youtu.be/Mn6ZEFCjtZE
+      </video>-->
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Temporally-averaged L<sub>up</sub> (Ours)
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/blender_updir_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/SoFYlazzQdM?autoplay=1&mute=1&loop=1&playlist=SoFYlazzQdM"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <!--<iframe 
+        width="100%" 
+        height="315"
+        src="https://www.youtube.com/embed/SoFYlazzQdM?autoplay=1&mute=1&loop=1&playlist=SoFYlazzQdM"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+      </iframe>-->
+      <!--<video width="100%" controls loop muted autoplay>
+        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/blender_updir_compressed.mp4" type="video/mp4"> https://youtu.be/SoFYlazzQdM
+      </video>-->
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Per-step L<sub>up</sub>
       </p>
@@ -459,7 +533,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   </div>
 </section>
 
-<section class="fullwidth-section2">
+<section class="fullwidth-section">
   <h2>Comparison with Torque-Actuated Humanoid</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
@@ -540,6 +614,10 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
 </section>
 
 
+## Abstract
+We propose FreeMusco, a motion-free framework that jointly learns latent representations and control policies for musculoskeletal characters. By leveraging the musculoskeletal model as a strong prior, our method enables energy-aware and morphology-adaptive locomotion to emerge without motion data. The framework generalizes across human, non-human, and synthetic morphologies, where distinct energy-efficient strategies naturally appear—for example, quadrupedal gaits in Chimanoid versus bipedal gaits in Humanoid. The latent space and corresponding control policy are constructed from scratch, without demonstration, and enable downstream tasks such as goal navigation and path following—representing, to our knowledge, the first motion-free method to provide such capabilities. FreeMusco learns diverse and physically plausible locomotion behaviors through model-based reinforcement learning, guided by the locomotion objective that combines control, balancing, and biomechanical terms. To better capture the periodic structure of natural gait, we introduce a temporally averaged loss formulation, which compares simulated and target states over a time window rather than on a per-frame basis. We further encourage behavioral diversity by randomizing target poses and energy levels during training, enabling locomotion to be flexibly modulated in both form and intensity at runtime. Together, these results demonstrate that versatile and adaptive locomotion control can emerge without motion capture, offering a new direction for simulating movement in characters where data collection is impractical or impossible.
+
+
 ## Video 
 <div id="iframe_container"> <div id="iframe">
 <iframe width="1198" height="674" src="https://www.youtube.com/embed/YFNKLzUQ0zk" title="FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoske.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -548,9 +626,10 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
 
 ## Paper
 Publisher: Coming soon  
-arXiv: Coming soon
 <!--Publisher: [page](https://dl.acm.org/doi/10.1145/3731425), [paper](https://dl.acm.org/doi/pdf/10.1145/3731425)\-->
-<!--arXiv: [page](https://arxiv.org/abs/2504.21216), [paper](https://arxiv.org/pdf/2504.21216)-->
+arXiv: [page](https://arxiv.org/abs/2511.14205), [paper](https://arxiv.org/pdf/2511.14205)
+<!--arXiv: Coming soon-->
+
 
 
 <!--## Presentation & Poster-->
