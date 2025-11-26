@@ -50,6 +50,19 @@ show_tile: false
   width: 100vw;
   margin-left: calc(50% - 50vw);
 }
+
+@media (max-width: 768px) {
+  .fullwidth-section div[style*="grid-template-columns"] {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .fullwidth-section2 div[style*="grid-template-columns"] {
+    grid-template-columns: 1fr !important;
+  }
+}
+
 </style>
 
 <div class="venue">
@@ -216,33 +229,57 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Humanoid Locomotion</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_rest_dense_control_compressed.mp4" type="video/mp4"> <!--https://youtu.be/DtPPea1EODw-->
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/DtPPea1EODw?autoplay=1&mute=1&loop=1&playlist=DtPPea1EODw" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Goal Velocity-Only
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_global_control_compressed.mp4" type="video/mp4"> <!--https://youtu.be/H1zTPru_yPY-->
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/H1zTPru_yPY?autoplay=1&mute=1&loop=1&playlist=H1zTPru_yPY" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Goal Velocity + Direction
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_target_symmetry_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/jFX2WJysYac?autoplay=1&mute=1&loop=1&playlist=jFX2WJysYac"  
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Goal Velocity + Energy + Pose (symmetric)
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_target_asymmetric_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/-yUyC-40AHE?autoplay=1&mute=1&loop=1&playlist=-yUyC-40AHE"  
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Goal Velocity + Energy + Pose (asymmetirc)
       </p>
@@ -254,25 +291,43 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Morphology-Adaptive Locomotion</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/chimanoid_vel.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/vFqhSliXM24?autoplay=1&mute=1&loop=1&playlist=vFqhSliXM24" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Chimanoid: Goal Velocity-Only
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/ostrich_rest_control_compressed.mp4" type="video/mp4"> <!--https://youtu.be/3SS7apL1dWQ-->
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/3SS7apL1dWQ?autoplay=1&mute=1&loop=1&playlist=3SS7apL1dWQ" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media" 
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Ostrich: Goal Velocity-Only
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/ostrich_ankle_sky3_compressed.mp4" type="video/mp4"> <!--https://youtu.be/lvtsGscn2Hc-->
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/lvtsGscn2Hc?autoplay=1&mute=1&loop=1&playlist=lvtsGscn2Hc"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Ostrich: Goal Velocity + Pose + Energy
       </p>
@@ -284,18 +339,30 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Emergent Gait Strategies Across Morphologies</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_chimanoid_energy_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/0kecrXYtuWU?autoplay=1&mute=1&loop=1&playlist=0kecrXYtuWU" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Chimanoid: Goal Velocity + Energy
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_energy_humanoid_low_compressed.mp4" type="video/mp4">
-      </video>
-      <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/dUMsO8iHufA?autoplay=1&mute=1&loop=1&playlist=dUMsO8iHufA" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;"> 
         Humanoid: Goal Velocity + Energy
       </p>
     </div>
@@ -322,33 +389,57 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Unconditional Random Sampling in Latent Space</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_sample_humanRest_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/T9i6hZIwuRY?autoplay=1&mute=1&loop=1&playlist=T9i6hZIwuRY" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Humanoid Latent Space <br> Trained with Velocity-Only Goals
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_sample_humanTarget_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/h4vRzwobSuk?autoplay=1&mute=1&loop=1&playlist=h4vRzwobSuk"   
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Humanoid Latent Space <br> Trained with Velocity + Pose + Energy Goals
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_sample_chimanoid_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/t8F7GiGLYlo?autoplay=1&mute=1&loop=1&playlist=t8F7GiGLYlo"  
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Chimanoid Latent Space <br> Trained with Velocity-Only Goals
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_sample_ostrichTarget_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/61gtTT5rC5A?autoplay=1&mute=1&loop=1&playlist=61gtTT5rC5A"  
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Ostrich Latent Space <br> Trained with Velocity + Pose + Energy Goals
       </p>
@@ -360,25 +451,43 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Downstream Tasks: Point-Goal Navigation</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_task1_humanoid_t2_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/5TBRc0ojVas?autoplay=1&mute=1&loop=1&playlist=5TBRc0ojVas"  
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Humanoid
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_task1_chimanoid_t1_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/4-67VchDw1E?autoplay=1&mute=1&loop=1&playlist=4-67VchDw1E"  
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Chimanoid
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_task1_ostrich_t2_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/dX-QdRzvEtY?autoplay=1&mute=1&loop=1&playlist=dX-QdRzvEtY" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Ostrich
       </p>
@@ -390,17 +499,29 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Downstream Tasks: Path Following</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/human_pathFollow_restDenseThorax2_compressed.mp4" type="video/mp4"> https://youtu.be/QH8ilQQaTRw
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/QH8ilQQaTRw?autoplay=1&mute=1&loop=1&playlist=QH8ilQQaTRw" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Humanoid
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/hulk_pathFollow1_compressed.mp4" type="video/mp4"> https://youtu.be/uWwg47TXzjs
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;"> 
+        <iframe
+          src="https://www.youtube.com/embed/uWwg47TXzjs?autoplay=1&mute=1&loop=1&playlist=uWwg47TXzjs" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Chimanoid
       </p>
@@ -451,17 +572,29 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Effect of Temporally Averaged Loss Formulation</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_ablation_ours_side_normal_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/miqnPb9hEEE?autoplay=1&mute=1&loop=1&playlist=miqnPb9hEEE" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Temporally-averaged L<sub>pose</sub> (Ours)
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_ablation_pose_side_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/nQd02C6xftA?autoplay=1&mute=1&loop=1&playlist=nQd02C6xftA" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Per-step L<sub>pose</sub>
       </p>
@@ -469,24 +602,13 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
     <div style="padding: 8px; border-radius: 8px;">
       <div style="position: relative; width: 100%; padding-top: 56.25%;">
         <iframe
-          src="https://www.youtube.com/embed/Mn6ZEFCjtZE?autoplay=1&mute=1&loop=1&playlist=Mn6ZEFCjtZE"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          src="https://www.youtube.com/embed/Mn6ZEFCjtZE?autoplay=1&mute=1&loop=1&playlist=Mn6ZEFCjtZE" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0"
           allow="autoplay; encrypted-media"
           allowfullscreen>
         </iframe>
       </div>
-      <!--<iframe 
-        width="100%" 
-        height="315"
-        src="https://www.youtube.com/embed/Mn6ZEFCjtZE?autoplay=1&mute=1&loop=1&playlist=Mn6ZEFCjtZE"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-      </iframe>-->
-      <!--<video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/blender_ours_compressed.mp4" type="video/mp4"> https://youtu.be/Mn6ZEFCjtZE
-      </video>-->
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Temporally-averaged L<sub>up</sub> (Ours)
       </p>
@@ -501,17 +623,6 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
           allowfullscreen>
         </iframe>
       </div>
-      <!--<iframe 
-        width="100%" 
-        height="315"
-        src="https://www.youtube.com/embed/SoFYlazzQdM?autoplay=1&mute=1&loop=1&playlist=SoFYlazzQdM"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-      </iframe>-->
-      <!--<video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/blender_updir_compressed.mp4" type="video/mp4"> https://youtu.be/SoFYlazzQdM
-      </video>-->
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Per-step L<sub>up</sub>
       </p>
@@ -537,25 +648,43 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   <h2>Comparison with Torque-Actuated Humanoid</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/final_dense_nosky_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/5MfxHva0FCg?autoplay=1&mute=1&loop=1&playlist=5MfxHva0FCg"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Muscle-Actuated (Ours)
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_nosky_torque_fail_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/XTT0r_96Xik?autoplay=1&mute=1&loop=1&playlist=XTT0r_96Xik" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Torque-Actuated 
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/rev_nosky_torque_success_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/A1iyknW-Y4s?autoplay=1&mute=1&loop=1&playlist=A1iyknW-Y4s"  
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
         Torque-Actuated <br>(with manually tuned torque limits)
       </p>
@@ -577,23 +706,35 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
   </div>
 </section>
 
-<section class="fullwidth-section">
+<section class="fullwidth-section2">
   <h2>Discussion</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr ; gap: 16px; max-width: 1200px; margin: auto;">
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/final_dense_nosky_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/5MfxHva0FCg?autoplay=1&mute=1&loop=1&playlist=5MfxHva0FCg"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
-        Target Pose: <br>Standing pose with straight arms
+        Target Pose: <br>Standing pose with straight arms 
       </p>
     </div>
     <div style="padding: 8px; border-radius: 8px;">
-      <video width="100%" controls loop muted autoplay>
-        <source src="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/final_elbow_compressed.mp4" type="video/mp4">
-      </video>
+      <div style="position: relative; width: 100%; padding-top: 56.25%;">
+        <iframe
+          src="https://www.youtube.com/embed/PWkwiGMc0sw?autoplay=1&mute=1&loop=1&playlist=PWkwiGMc0sw"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen>
+        </iframe>
+      </div>
       <p style="color: var(--black); font-weight: bold; font-size: 20px; margin-top: 4px;">
-        Target Pose: <br>Standing pose with slightly bent elbows
+        Target Pose: <br>Standing pose with slightly bent elbows 
       </p>
     </div>
     <div style="
@@ -612,7 +753,9 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
     </div>
   </div>
 </section>
-
+<div style="grid-column: 1 / -1;">
+  <hr style="border: none; height: 2px; background-color: #333; width: 100%; display: block; margin: 32px 0;">
+</div>
 
 ## Abstract
 We propose FreeMusco, a motion-free framework that jointly learns latent representations and control policies for musculoskeletal characters. By leveraging the musculoskeletal model as a strong prior, our method enables energy-aware and morphology-adaptive locomotion to emerge without motion data. The framework generalizes across human, non-human, and synthetic morphologies, where distinct energy-efficient strategies naturally appear—for example, quadrupedal gaits in Chimanoid versus bipedal gaits in Humanoid. The latent space and corresponding control policy are constructed from scratch, without demonstration, and enable downstream tasks such as goal navigation and path following—representing, to our knowledge, the first motion-free method to provide such capabilities. FreeMusco learns diverse and physically plausible locomotion behaviors through model-based reinforcement learning, guided by the locomotion objective that combines control, balancing, and biomechanical terms. To better capture the periodic structure of natural gait, we introduce a temporally averaged loss formulation, which compares simulated and target states over a time window rather than on a per-frame basis. We further encourage behavioral diversity by randomizing target poses and energy levels during training, enabling locomotion to be flexibly modulated in both form and intensity at runtime. Together, these results demonstrate that versatile and adaptive locomotion control can emerge without motion capture, offering a new direction for simulating movement in characters where data collection is impractical or impossible.
