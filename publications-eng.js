@@ -29,7 +29,7 @@ var publications_eng = [
 		'links':
 			[
 				{'Publisher': 'https://diglib.eg.org/items/93f81df9-1fa7-4ce4-b1f9-916c145d81e6'},
-				{'arXiv': ''},
+				{'arXiv': 'https://arxiv.org/abs/2511.13988'},
 				{'Video': 'https://youtu.be/NoPo_jsLy5A'},
 			],
 	},

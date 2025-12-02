@@ -101,9 +101,9 @@ show_tile: false
     <span>Slides (PPTX) (coming soon)</span>
   </a>
 
-  <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
+  <a href="https://github.com/palkan21/FreeMusco" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="fa fa-github"></span>
-    <span>Code (coming soon)</span>
+    <span>Code </span>
   </a>
 </div>
 
