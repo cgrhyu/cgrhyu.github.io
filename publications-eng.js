@@ -11,7 +11,7 @@ var publications_eng = [
 		'type': 'paper',
 		'links':
 			[
-				{'Publisher': ''},
+				{'Publisher': 'https://dl.acm.org/doi/10.1145/3757377.3764002'},
 				{'arXiv': 'https://arxiv.org/abs/2511.14205'},
 				{'Video': 'https://youtu.be/YFNKLzUQ0zk'},
 			],

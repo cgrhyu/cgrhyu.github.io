@@ -79,9 +79,9 @@ show_tile: false
 </div>
 
 <div class="link-buttons">
-  <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
+  <a href="https://dl.acm.org/doi/10.1145/3757377.3764002" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="ai ai-doi"></span>
-    <span>Publisher (coming soon)</span>
+    <span>Publisher </span>
   </a>
 
   <a href="https://arxiv.org/abs/2511.14205" rel="noopener noreferrer" target="_blank" class="button icon">
@@ -768,7 +768,7 @@ We propose FreeMusco, a motion-free framework that jointly learns latent represe
 <br/>
 
 ## Paper
-Publisher: Coming soon  
+Publisher: [page](https://dl.acm.org/doi/10.1145/3757377.3764002), [paper](https://dl.acm.org/doi/pdf/10.1145/3757377.3764002)\
 <!--Publisher: [page](https://dl.acm.org/doi/10.1145/3731425), [paper](https://dl.acm.org/doi/pdf/10.1145/3731425)\-->
 arXiv: [page](https://arxiv.org/abs/2511.14205), [paper](https://arxiv.org/pdf/2511.14205)
 <!--arXiv: Coming soon-->
