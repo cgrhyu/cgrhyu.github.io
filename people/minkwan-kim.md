@@ -57,7 +57,7 @@ SIGGRAPH '23: ACM SIGGRAPH 2023 Posters, Article No.: 5, July 2023<br>
 <!--<a target="_black" rel="noopener noreferrer" href="https://cgrhyu.github.io/publications/2025-freemusco.html">[FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters](https://cgrhyu.github.io/publications/2025-freemusco.html)</a><br>-->
 <a target="_black" rel="noopener noreferrer" href="https://cgrhyu.github.io/publications/2025-freemusco.html">FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters</a><br>
 Minkwan Kim, Yoonsang Lee<br>
-To Appear in SIGGRAPH Asia 2025.<br>
+SIGGRAPH Asia 2025 Conference Papers, Article No.: 38, December 2025<br>
 </span>
 </div>
 <br>
@@ -81,7 +81,7 @@ To Appear in SIGGRAPH Asia 2025.<br>
 <span class="info right">
 <a target="_black" rel="noopener noreferrer" href="https://cgrhyu.github.io/publications/2023-learning-human-like.html">Learning Human-like Locomotion Based on Biological Actuation and Rewards</a><br>
 Minkwan Kim, Yoonsang Lee<br>
-SIGGRAPH '23: ACM SIGGRAPH 2023 Posters, Article No.: 5, July 2023<br>
+SIGGRAPH 2023 Posters, Article No.: 5, July 2023<br>
 </span>
 </div>
 <br>

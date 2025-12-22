@@ -89,21 +89,24 @@ show_tile: false
     <span>arXiv </span> 
   </a>
 
-  <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
-  <!--<a href="https://gitcgr.hanyang.ac.kr/publications/2025-b2f/18_B2F_End-to-End Body-to-Face Motion Generation with Style Reference.pdf" rel="noopener noreferrer" target="_blank" class="button icon">-->
+  <a href="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/freemusco-siggraphasia-presentation.pdf" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="fa fa-file-pdf-o"></span>
-    <span>Slides (PDF) (coming soon)</span>
+    <span>Slides (PDF) </span>
   </a>
 
-  <a href="" rel="noopener noreferrer" target="_blank" class="button icon">
-  <!--<a href="https://gitcgr.hanyang.ac.kr/publications/2025-b2f/18_B2F_End-to-End Body-to-Face Motion Generation with Style Reference.pptx" rel="noopener noreferrer" target="_blank" class="button icon">-->
+  <a href="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/freemusco-siggraphasia-presentation.pptx" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="fa fa-file-powerpoint-o"></span>
-    <span>Slides (PPTX) (coming soon)</span>
+    <span>Slides (PPTX) </span>
   </a>
 
   <a href="https://github.com/palkan21/FreeMusco" rel="noopener noreferrer" target="_blank" class="button icon">
     <span class="fa fa-github"></span>
     <span>Code </span>
+  </a>
+
+  <a href="https://gitcgr.hanyang.ac.kr/publications/2025-freemusco/freemusco-siggraphasia-poster.pdf" rel="noopener noreferrer" target="_blank" class="button icon">
+    <span class="fa fa-image"></span>
+    <span>Poster</span>
   </a>
 </div>
 
