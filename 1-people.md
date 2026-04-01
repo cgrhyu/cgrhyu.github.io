@@ -167,7 +167,8 @@ banner_style: style1
 		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b><a href="people/hauk-nam.html">Hauk Nam</a></b>
 		<font size="3">남하욱</font><br/>
-		namhoyog@naver.com<br/>
+		<!--namhoyog@naver.com<br/>-->
+		M.S., Feb. 2026<br/>
 	</p>
 	</div>
 	<div class="4u 12u$(small)">
