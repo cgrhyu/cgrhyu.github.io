@@ -178,6 +178,7 @@ banner_style: style1
 		<font size="3">장보경</font><br/>
 		<!--jbok6825@naver.com<br/>-->
 		M.S., Aug. 2025<br/>
+		Now at: Samsung Research
 	</p>
 	</div>
 	<div class="4u 12u$(small)">
@@ -187,6 +188,7 @@ banner_style: style1
 		<font size="3">정은호</font><br/>
 		<!--jho6394@hanyang.ac.kr<br/>-->
 		M.S., Aug. 2025<br/>
+		Now at: NIUSN
 	</p>
 	</div>
 
@@ -199,6 +201,7 @@ banner_style: style1
 		<font size="3">김민수</font><br/>
 		<!--igotaspot426@gmail.com<br/>-->
 		M.S., Aug. 2025<br/>
+		Now at: ROBROS
 	</p>
 	</div>
 	<div class="4u 12u$(small)">
@@ -229,6 +232,7 @@ banner_style: style1
 		<font size="3">이정민</font><br/>
 		<!--j0064423@gmail.com<br/>-->
 		M.S., Aug. 2022<br/>
+		Now at: Samsung Research
 	</p>
 	</div>
 	<div class="4u 12u$(small)">
