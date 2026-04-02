@@ -29,6 +29,8 @@ Physics-based Reinforcement Learning
 Human Motion Generation
 <br>
 <br>
+<br>
+<br>
 
 <h2>Publications</h2>
 <div class="paper">
@@ -60,7 +62,7 @@ ACM Transactions on Graphics (SIGGRAPH 2025), August 2025
 </a><br>
 Bokyung Jang, Eunho Jung, Yoonsang Lee
 <br>
-ACM Transactions on Graphics (SIGGRAPH 2025), August 2025
+Pacific Graphics 2025, August 2025
 </span>
 </div>
 <br>
