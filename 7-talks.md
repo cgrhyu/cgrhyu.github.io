@@ -1,14 +1,14 @@
 ---
 layout: landing
-title: Publications
+title: Talks
 image: assets/home/publications.jpg
 nav-menu: true
+show_tile: false
 banner_style: style2
 ---
 
-
 <style>
-  .pub-item {
+  .talk-item {
     padding: 1.0em 0;
     border-top: 1px solid #eeeeee;
   }
@@ -18,50 +18,40 @@ banner_style: style2
 <section id="one">
 <div class="inner">
 
-<div class="row">
-<b><a href="7-talks.html">Talks</a></b>
-<!--<b><a href="6-showcase-pblprojs.html">Showcase - PBL Projects</a></b>-->
-</div>
+<!--<div class="row">-->
 
-<div class="row">
-<p/>
-</div>
+<!--<div class="3u 12u$(small)">-->
+<!--Conference / Journal:-->
+<!--<select id="conf_select" onChange="onSelect()">-->
+  <!--<option value='all'>ALL</option>-->
+  <!--<option value='siggraph'>SIGGRAPH (Asia) / TOG</option>-->
+<!--</select>-->
+<!--</div>-->
 
-
-<div class="row">
-
-<div class="3u 12u$(small)">
-Conference / Journal:
-<select id="conf_select" onChange="onSelect()">
-  <option value='all'>ALL</option>
-  <option value='siggraph'>SIGGRAPH (Asia) / TOG</option>
-</select>
-</div>
-
-<div class="3u 12u$(small)">
-Type:
-<select id="type_select" onChange="onSelect()">
-  <option value='all'>ALL</option>
-  <option value='paper'>Full Paper</option>
-  <option value='short_paper'>Short Paper</option>
-  <option value='poster'>Poster</option>
-  <option value='extended_abstract'>Extended Abstract</option>
+<!--<div class="3u 12u$(small)">-->
+<!--Type:-->
+<!--<select id="type_select" onChange="onSelect()">-->
+  <!--<option value='all'>ALL</option>-->
+  <!--<option value='paper'>Full Paper</option>-->
+  <!--<option value='short_paper'>Short Paper</option>-->
+  <!--<option value='poster'>Poster</option>-->
+  <!--<option value='extended_abstract'>Extended Abstract</option>-->
   <!--<option value='talk'>Talk</option>-->
-</select>
-</div>
+<!--</select>-->
+<!--</div>-->
 
-<div class="4u 12u$(small)" style="height:1px">
-</div>
+<!--<div class="4u 12u$(small)" style="height:1px">-->
+<!--</div>-->
 
-<div class="2u 12u$(small)">
-Language:
-<select id="lang_select" onChange="onSelect()">
-  <option value='eng'>In English</option>
-  <option value='kor'>In Korean</option>
-</select>
-</div>
+<!--<div class="2u 12u$(small)">-->
+<!--Language:-->
+<!--<select id="lang_select" onChange="onSelect()">-->
+  <!--<option value='eng'>In English</option>-->
+  <!--<option value='kor'>In Korean</option>-->
+<!--</select>-->
+<!--</div>-->
 
-</div>
+<!--</div>-->
 
 <p/>
 
@@ -89,28 +79,24 @@ function dynamicallyLoadScript(url) {
     document.head.appendChild(script);  // add it to the end of the head section of the page (could change 'head' to 'body' to add it to the end of the body section instead)
 }
 
-dynamicallyLoadScript('publications-eng.js');
-dynamicallyLoadScript('publications-kor.js');
+dynamicallyLoadScript('talks.js');
 
 function onSelect() {
-	var conf_select = document.getElementById("conf_select");
-	var conf = conf_select.options[conf_select.selectedIndex].value;
-
-	var type_select = document.getElementById("type_select");
-	var type = type_select.options[type_select.selectedIndex].value;
-
-	var lang_select = document.getElementById("lang_select");
-	var lang = lang_select.options[lang_select.selectedIndex].value;
-
-	if(lang=='eng')
-		var publications = publications_eng;
-	else
-		var publications = publications_kor;
+//	var conf_select = document.getElementById("conf_select");
+//	var conf = conf_select.options[conf_select.selectedIndex].value;
+//
+//	var type_select = document.getElementById("type_select");
+//	var type = type_select.options[type_select.selectedIndex].value;
+//
+//	var lang_select = document.getElementById("lang_select");
+//	var lang = lang_select.options[lang_select.selectedIndex].value;
+	var conf = 'all';
+	var type = 'talk';
 
 	var contents_code = '';
-	for(var i = 0; i < publications.length; i++) 
+	for(var i = 0; i < talks.length; i++) 
 	{
-		var pub = publications[i];
+		var pub = talks[i];
 		var show = false;
 
 		if(conf=='siggraph'
@@ -142,17 +128,17 @@ function onSelect() {
 
 		if(show)
 		{
-			contents_code += '<div class="12u 12u$(small) pub-item">';
+			contents_code += '<div class="12u 12u$(small) talk-item">';
 
 			// right (horizontal) & top (vertical) alignment
-			contents_code += '<span class="image left"><img src={0} style="width: 220px; height: 124px; object-fit:contain; object-position: 100% 0%" alt="" /></span>'.format(pub.representative_img);
+			//contents_code += '<span class="image left"><img src={0} style="width: 220px; height: 124px; object-fit:contain; object-position: 100% 0%" alt="" /></span>'.format(pub.representative_img);
 
 			if('project_page' in pub)
 				contents_code += '<b><a href={0} rel="noopener noreferrer" target="_blank">{1}</a></b><br/>'.format(pub.project_page, pub.title);
 			else
 				contents_code += '<b>{0}</b><br/>'.format(pub.title);
 
-			contents_code += '{0}<br/>'.format(pub.authors);
+			//contents_code += '{0}<br/>'.format(pub.authors);
 			contents_code += '{0}<br/>'.format(pub.conference_journal_full);
 
   			// 🔹 links 리스트를 버튼으로 렌더링
@@ -207,17 +193,19 @@ function onSelect() {
 
 // set default value and trigger onchange event when window is loaded
 window.onload = function () {
-	var conf_select = document.getElementById("conf_select");
-	conf_select.value = 'all';
-	conf_select.onchange();
+//	var conf_select = document.getElementById("conf_select");
+//	conf_select.value = 'all';
+//	conf_select.onchange();
+//
+//	var type_select = document.getElementById("type_select");
+//	type_select.value = 'all';
+//	type_select.onchange();
+//
+//	var lang_select = document.getElementById("lang_select");
+//	lang_select.value = 'eng';
+//	lang_select.onchange();
 
-	var type_select = document.getElementById("type_select");
-	type_select.value = 'all';
-	type_select.onchange();
-
-	var lang_select = document.getElementById("lang_select");
-	lang_select.value = 'eng';
-	lang_select.onchange();
+	onSelect();
 
 }
 
