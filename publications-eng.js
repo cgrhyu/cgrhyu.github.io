@@ -1,5 +1,22 @@
 var publications_eng = [
 	{
+		'title': 'Neural Motion Path: A Path-Based Authoring System for Pre-Rendered Character Animation',
+		'authors': 'Jiwon Yi, Yoonsang Lee',
+		'conference_journal': 'TVCG',
+		'year': 2026,
+		'conference_journal_full': 'IEEE Transactions on Visualization and Computer Graphics, Volume: 32, Issue: 7, July 2026',
+		'representative_img': 'assets/publications/2026-nmp/teaser-nmp.png',
+		//'video_iframe': '<iframe width="1198" height="674" src="https://www.youtube.com/embed/YFNKLzUQ0zk" title="FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoske.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+		'project_page': 'publications/2026-nmp.html',
+		'type': 'paper',
+		'links':
+			[
+				{'Publisher': 'https://ieeexplore.ieee.org/document/11519541'},
+				{'arXiv': ''},
+				{'Video': ''},
+			],
+	},
+	{
 		'title': 'FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters',
 		'authors': 'Minkwan Kim, Yoonsang Lee',
 		'conference_journal': 'SIGGRAPH Asia',
