@@ -13,6 +13,8 @@ banner_style: style0
 		<ul class="features">
 
 
+<li><h3>[2026.04] Paper accepted to TVCG (<a href="publications/2026-nmp.html" rel="noopener noreferrer" target="_blank">NMP</a>)</h3></li>
+
 <li><h3>[2026] Prof. Lee is serving on the Technical Papers Committee, SIGGRAPH Asia 2026</h3></li>
 <li><h3>[2026] Prof. Lee is serving as Organizing Committee Chair, KCGS 2026 Annual Conference</h3></li>
 
