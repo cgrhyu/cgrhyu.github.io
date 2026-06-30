@@ -13,6 +13,8 @@ banner_style: style0
 		<ul class="features">
 
 
+<li><h3>[2026.04] Poster accepted to SIGGRAPH (<a href="publications/2026-surfing-like.html" rel="noopener noreferrer" target="_blank">Learning Surfing-like</a>)</h3></li>
+
 <li><h3>[2026.04] Paper accepted to TVCG (<a href="publications/2026-nmp.html" rel="noopener noreferrer" target="_blank">NMP</a>)</h3></li>
 
 <li><h3>[2026] Prof. Lee is serving on the Technical Papers Committee, SIGGRAPH Asia 2026</h3></li>

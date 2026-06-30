@@ -1,19 +1,53 @@
 var publications_eng = [
 	{
+		'title': 'CMDer: Controllable Mode Decomposition-Based Single Motion Synthesis with Diffusion',
+		'authors': 'Junliang Chen,Sihang Chen, Xiaojuan Gu, Yoonsang Lee, Kevin Romond, Fang-Lue Zhang',
+		'conference_journal': 'ECCV',
+		'year': 2026,
+		'conference_journal_full': 'To appear in ECCV 2026',
+		'representative_img': 'assets/publications/2026-cmder/CMDer.png',
+		//'video_iframe': '<iframe width="730" height="411" src="https://www.youtube.com/embed/Vf1hafwHSmM" title="Learning Surfing-like Balance without Water Simulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+		//'project_page': 'publications/2026-surfing-like.html',
+		'type': 'paper',
+		'links':
+			[
+				{'Publisher': ''},
+				{'arXiv': ''},
+				{'Video': ''},
+			],
+	},
+	{
+		'title': 'Learning Surfing-like Balance without Water Simulation',
+		'authors': 'Hauk Nam, Changho Lee, Yoonsang Lee',
+		'conference_journal': 'SIGGRAPH',
+		'year': 2026,
+		'conference_journal_full': 'To appear in SIGGRAPH 2026 Posters',
+		'representative_img': 'assets/publications/2026-surfing-like/thumb-surfing-like.png',
+		'video_iframe': '<iframe width="730" height="411" src="https://www.youtube.com/embed/Vf1hafwHSmM" title="Learning Surfing-like Balance without Water Simulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+		'project_page': 'publications/2026-surfing-like.html',
+		'type': 'paper',
+		'links':
+			[
+				{'Publisher': ''},
+				{'arXiv': ''},
+				{'Video': 'https://youtu.be/Vf1hafwHSmM'},
+			],
+	},
+	{
 		'title': 'Neural Motion Path: A Path-Based Authoring System for Pre-Rendered Character Animation',
 		'authors': 'Jiwon Yi, Yoonsang Lee',
 		'conference_journal': 'TVCG',
 		'year': 2026,
 		'conference_journal_full': 'IEEE Transactions on Visualization and Computer Graphics, Volume: 32, Issue: 7, July 2026',
-		'representative_img': 'assets/publications/2026-nmp/teaser-nmp.png',
-		//'video_iframe': '<iframe width="1198" height="674" src="https://www.youtube.com/embed/YFNKLzUQ0zk" title="FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoske.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+		'representative_img': 'assets/publications/2026-nmp/thumb-nmp.png',
+		'video_iframe': '<iframe width="796" height="448" src="https://www.youtube.com/embed/kZ7OMLxCbco" title="Neural Motion Path: A Path-Based Authoring System for Pre-Rendered Character Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
 		'project_page': 'publications/2026-nmp.html',
 		'type': 'paper',
 		'links':
 			[
 				{'Publisher': 'https://ieeexplore.ieee.org/document/11519541'},
 				{'arXiv': ''},
-				{'Video': ''},
+				{'Video': 'https://youtu.be/kZ7OMLxCbco'},
 			],
 	},
 	{
