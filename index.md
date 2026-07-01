@@ -23,6 +23,8 @@ show_tile: false
 #  <output.mp4>
 
 video_playlist:
+  - /assets/video/2026-surfing-like-bg.mp4
+  - /assets/video/2026-nmp-bg.mp4
   - /assets/video/2025-freemusco-bg.mp4
   - /assets/video/2025-physicsfc-bg.mp4
   - /assets/video/2025-touchwalker-bg.mp4
