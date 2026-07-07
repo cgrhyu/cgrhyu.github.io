@@ -16,7 +16,7 @@ show_tile: false
 </div>
 
 <div class="affiliations"> 
-    <div>Hanyang University</div>
+    Hanyang University
 </div>
 
 <div class="additional"> 
@@ -24,30 +24,19 @@ show_tile: false
 </div>
 
 <div class="link-buttons">
-  <!--<a href="https://ieeexplore.ieee.org/document/11519541" rel="noopener noreferrer" target="_blank" class="button icon">-->
-    <!--<span class="ai ai-doi"></span>-->
-    <!--<span>Publisher</span>-->
-  <!--</a>-->
+  <a href="https://dl.acm.org/doi/abs/10.1145/3799825.3818707" rel="noopener noreferrer" target="_blank" class="button icon">
+    <span class="ai ai-doi"></span>
+    <span>Publisher</span>
+  </a>
 
-  <!--<a href="https://arxiv.org/abs/2511.07860" rel="noopener noreferrer" target="_blank" class="button icon">-->
-    <!--<span class="ai ai-arxiv"></span>-->
-    <!--<span>arXiv</span>-->
-  <!--</a>-->
-
-  <!--<a href="https://gitcgr.hanyang.ac.kr/publications/2025-touchwalker/touchwalker-ismar-presentation.pdf" rel="noopener noreferrer" target="_blank" class="button icon">-->
-    <!--<span class="fa fa-file-pdf-o"></span>-->
-    <!--<span>Slides (PDF)</span>-->
-  <!--</a>-->
-
-  <!--<a href="https://gitcgr.hanyang.ac.kr/publications/2025-touchwalker/touchwalker-ismar-presentation.pptx" rel="noopener noreferrer" target="_blank" class="button icon">-->
-    <!--<span class="fa fa-file-powerpoint-o"></span>-->
-    <!--<span>Slides (PPTX)</span>-->
-  <!--</a>-->
-
+  <a href="https://gitcgr.hanyang.ac.kr/publications/2026-learning-surfing-like/learning-surfing-like-poster.pdf" rel="noopener noreferrer" target="_blank" class="button icon">
+    <span class="fa fa-image"></span>
+    <span>Poster</span>
+  </a>
 </div>
 
 
-![teaser](../assets/publications/2026-surfing-like/teaser-1080.png)  
+![teaser](../assets/publications/2026-learning-surfing-like/teaser-1080.png)  
 *Our method learns surfing-like balance control without water simulation. The learned policy maintains stable balance on a moving board under wave conditions at runtime.*
 
 ## Video 
@@ -64,8 +53,3 @@ Despite being trained entirely in a non-fluid setting, the learned policy mainta
 <!--Publisher: [page](https://ieeexplore.ieee.org/document/11519541)-->
 <!--\-->
 <!--arXiv: [page](https://arxiv.org/abs/2511.07860), [paper](https://arxiv.org/pdf/2511.07860)-->
-
-
-<!--## Presentation-->
-<!--ISMAR 2025 Presentation Slides: [pdf](https://gitcgr.hanyang.ac.kr/publications/2025-touchwalker/touchwalker-ismar-presentation.pdf) (2MB), [pptx](https://gitcgr.hanyang.ac.kr/publications/2025-touchwalker/touchwalker-ismar-presentation.pptx) (268.8MB)-->
-

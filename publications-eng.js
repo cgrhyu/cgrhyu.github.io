@@ -22,9 +22,9 @@ var publications_eng = [
 		'conference_journal': 'SIGGRAPH',
 		'year': 2026,
 		'conference_journal_full': 'To appear in SIGGRAPH 2026 Posters',
-		'representative_img': 'assets/publications/2026-surfing-like/thumb-surfing-like.png',
+		'representative_img': 'assets/publications/2026-learning-surfing-like/thumb-learning-surfing-like.png',
 		'video_iframe': '<iframe width="730" height="411" src="https://www.youtube.com/embed/Vf1hafwHSmM" title="Learning Surfing-like Balance without Water Simulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
-		'project_page': 'publications/2026-surfing-like.html',
+		'project_page': 'publications/2026-learning-surfing-like.html',
 		'type': 'paper',
 		'links':
 			[
