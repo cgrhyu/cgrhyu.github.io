@@ -24,12 +24,21 @@ e-mail: yum0315@hanyang.ac.kr
 </section>
 
 ## Research Interests
-Physics Based Character Motion Simulation<br>
-<br>
+Physics Based Character Control<br>
+Deep Reinforcement Learning<br>
+Biomimetic Physics-Based Simulation<br>
 <br>
 <br>
 
 ## Publications
+<div class="paper">
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2026-kcgs-butterfly-modeling.pdf">생체 모방 나비 비행을 위한 변형 가능한 날개 모델링</a>
+<br>
+이유민, 장이권, 이윤상<br>
+한국컴퓨터그래픽스학회 2026년 학술대회 논문집, 101-102, 2026.07.
+</span>
+</div>
 <br>
 <br>
 <br>
