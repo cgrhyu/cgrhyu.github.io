@@ -2,6 +2,13 @@ var talks = [
 	{
 		'title': 'From Physics-Based Control to Controllable, Adaptive, and Expressive Character Animation',
 		'year': 2026,
+		'conference_journal_full': 'Invited talk, Colloquium on Immersive Media Engineering, Sungkyunkwan University, September 2026',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/talks/2026-skku-physics-to-more.pdf" rel="noopener noreferrer" target="_blank">[slides]</a>',
+		'type': 'talk',
+	},
+	{
+		'title': 'From Physics-Based Control to Controllable, Adaptive, and Expressive Character Animation',
+		'year': 2026,
 		'conference_journal_full': 'Invited talk, 2026 Asia Graphics Workshop on Intelligent Graphics, April 2026',
 		'additional': '<a href="https://gitcgr.hanyang.ac.kr/talks/2026-AG-physics-to-more.pdf" rel="noopener noreferrer" target="_blank">[slides]</a>',
 		'type': 'talk',
@@ -70,7 +77,7 @@ var talks = [
 		'representative_img': 'assets/publications/domestic/2016-kcgs-make-it-walk.png',
 		'year': 2016,
 		'authors': 'Yoonsang Lee',
-		'conference_journal_full': 'Invited Talk, KCGS 2016, July 2016',
+		'conference_journal_full': 'Invited talk, KCGS 2016, July 2016',
 		'additional': '<a href="https://gitcgr.hanyang.ac.kr/talks/2016-kcgs-make-it-walk.pdf" rel="noopener noreferrer" target="_blank">[slides]</a>',
 		'type': 'talk',
 	},
