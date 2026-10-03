@@ -13,6 +13,10 @@ banner_style: style0
 		<ul class="features">
 
 
+<li><h3>[2026.09] Invited talk at Sungkyunkwan University: "From Physics-Based Control to Controllable, Adaptive, and Expressive Character Animation" (see <a href="7-talks.html" rel="noopener noreferrer" target="_blank">Talks</a>)</h3></li>
+
+<li><h3>[2026.06] Paper accepted to ECCV (<a href="https://eccv.ecva.net/virtual/2026/poster/4490" rel="noopener noreferrer" target="_blank">CMDer</a>)</h3></li>
+
 <li><h3>[2026.04] Poster accepted to SIGGRAPH (<a href="publications/2026-learning-surfing-like.html" rel="noopener noreferrer" target="_blank">Learning Surfing-like</a>)</h3></li>
 
 <li><h3>[2026.04] Paper accepted to TVCG (<a href="publications/2026-nmp.html" rel="noopener noreferrer" target="_blank">NMP</a>)</h3></li>
