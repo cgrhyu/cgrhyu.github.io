@@ -31,6 +31,34 @@ Physics Based Character Control<br>
 <br>
 
 ## Publications
+<div class="paper">
+    <span class="image left" style="width: 300px; object-fit:cover">
+        <img src="../assets/publications/2026-learning-surfing-like/teaser-1080.png">
+    </span>
+    <div style="overflow: hidden;">
+        <a target="_black" rel="noopener noreferrer" href="https://cgrhyu.github.io/publications/2026-learning-surfing-like.html">
+        Learning Surfing-like Balance without Water Simulation</a>
+    </div>
+    <br>
+    Hauk Nam, Changho Lee, Yoonsang Lee<br>
+    SIGGRAPH 2026 Posters, July 2026
+</div>
+
+<br>
+
+<div class="paper">
+    <span class="image left" style="width: 300px; object-fit:cover">
+        <img src="../assets/publications/domestic/2026-kcgs-LatentMatching.png">
+    </span>
+    <div style="overflow: hidden;">
+        <a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2026-kcgs-latent-matching.pdf">
+       다양한 고수준 사용자 입력을 위한 잠재변수 매칭 기반 물리 캐릭터 제어 프레임워크</a>
+    </div>
+    <br>
+    이창호, 이윤상<br>
+    한국컴퓨터그래픽스학회 2026년 학술대회 논문집, 103-104, 2026.07.
+</div>
+    
 <br>
 <br>
 <br>
