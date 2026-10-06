@@ -1,5 +1,14 @@
 var publications_kor = [
     {
+        'title': '다양한 고수준 사용자 입력을 위한 잠재변수 매칭 기반 물리 캐릭터 제어 프레임워크',
+        'representative_img':'assets/publications/domestic/2026-kcgs-LatentMatching.png',
+        'year': 2026,
+        'authors': '이창호, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2026년 학술대회 논문집, 103-104, 2026.07.',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2026-kcgs-latent-matching.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
+        'type': 'extended_abstract',
+    },
+    {
         'title': '비디오 생성 모델 기반 레퍼런스 합성을 통한 4족 로봇의 스케이트보딩 동작 학습',
         'representative_img':'assets/publications/domestic/2026-kcgs-QuadSkateboarding.png',
         'year': 2026,
