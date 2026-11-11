@@ -132,6 +132,13 @@ banner_style: style1
         <font size="3">최승훈</font><br/>
     </p>
     </div>	
+	<div class="4u 12u$(small)">
+    	<p>
+        <span class="image left"><img src="assets/people/hyunjune-shim/hyunjune-shim.png" style="max-width: 200px; height: auto; " alt="" /></span>
+        <b>Hyunjune Shim</b>
+        <font size="3">심현준</font><br/>
+    </p>
+    </div>
 	<!-- div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minwoo-park/minwoo-park.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
