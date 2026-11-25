@@ -26,7 +26,7 @@ e-mail: yum0315@hanyang.ac.kr
 ## Research Interests
 Physics Based Character Control<br>
 Deep Reinforcement Learning<br>
-Biomimetic Physics-Based Simulation<br>
+Bio-inspired Physics-Based Simulation<br>
 <br>
 <br>
 
